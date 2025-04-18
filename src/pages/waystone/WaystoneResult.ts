@@ -69,9 +69,10 @@ function generateModifiers(settings: Settings["waystone"]["modifier"]): string |
 }
 
 function generateRarity(settings: Settings["waystone"]["rarity"]): string | null {
-  if (settings.uncorrupted && settings.corrupted) return null;
+  if (settings.uncorrupted && settings.corrupted && settings.upsixmods) return null;
   if (settings.corrupted) return "corr";
   if (settings.uncorrupted) return "!corr";
+  if (settings.upsixmods) return "]: 0";
   return null;
 }
 

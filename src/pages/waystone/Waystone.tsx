@@ -56,7 +56,7 @@ export function Waystone() {
 
   return (
     <>
-      <Header name="換界石正则生成器"></Header>
+      <Header name="⬅ 換界石正则生成器"></Header>
       <div className="flex bg-muted grow-0 flex-1 flex-col gap-2 ">
         <Result
           result={result}
@@ -79,13 +79,15 @@ export function Waystone() {
         <div className="grid lg:grid-cols-3 md:grid-cols-3 sm:grid-cols-2 gap-4">
           <div>
             <p className="text-xs font-medium text-sidebar-foreground/70 pb-2">全局设置</p>
-            <Checked id="round-10" text="四舍五入到最接近的 10（节省大量空间）"
-                     checked={settings.modifier.round10}
-                     onChange={(b) => setSettings({
-                       ...settings, modifier: {...settings.modifier, round10: b}
-                     })}
+            <Checked
+              id="round-10"
+              text="四舍五入到最接近的 10(节省大量空间)"
+              checked={settings.modifier.round10}
+              onChange={(b) => setSettings({
+                ...settings, modifier: {...settings.modifier, round10: b}
+              })}              // 添加 title 属性悬浮提示              
             />
-            <Checked id="over-100" text="匹配超过 100% 的数字（占用更多空间）"
+            <Checked id="over-100" text="匹配超过 100% 的数字(占用更多空间)"
                      checked={settings.modifier.over100}
                      onChange={(b) => setSettings({
                        ...settings, modifier: {...settings.modifier, over100: b}
@@ -95,7 +97,7 @@ export function Waystone() {
           <div className="grid lg:grid-cols-2">
             <div>
               <p className="pb-2">最低階級:</p>
-              <Input type="number" min="1" max="16" placeholder="Min tier" className="pb-2 mb-2 w-40"
+              <Input type="number" min="1" max="16" placeholder="Min tier" className="pb-2 mb-2 w-20"
                      value={settings.tier.min}
                      onChange={(b) => {
                        if (Number(b.target.value) <= settings.tier.max) {
@@ -108,7 +110,7 @@ export function Waystone() {
             </div>
             <div>
               <p className="pb-2">最高階級:</p>
-              <Input type="number" min="1" max="16" placeholder="Max tier" className="pb-2 mb-2 w-40"
+              <Input type="number" min="1" max="16" placeholder="Max tier" className="pb-2 mb-2 w-20"
                      value={settings.tier.max}
                      onChange={(b) => {
                        if (Number(b.target.value) >= settings.tier.min) {
@@ -131,6 +133,12 @@ export function Waystone() {
                      checked={settings.rarity.uncorrupted}
                      onChange={(b) => setSettings({
                        ...settings, rarity: {...settings.rarity, uncorrupted: b}
+                     })}
+            />
+            <Checked id="rarity-upsixmods" text="0门6词缀"
+                     checked={settings.rarity.upsixmods}
+                     onChange={(b) => setSettings({
+                       ...settings, rarity: {...settings.rarity, upsixmods: b}
                      })}
             />
           </div>

@@ -6,13 +6,6 @@ import homeIcon from "@/img/MarakethSanctumAscendancyAltar.png";
 import bannerImg from "@/img/dashang.png";
 
 import {
-  Code,
-  Github,
-  // Bug,
-  Coffee,
-} from "lucide-react"
-
-import {
   Sidebar,
   SidebarContent,
   SidebarGroup,
@@ -52,12 +45,11 @@ const items = [
     url: "/relic",
     icon: relicIcon,
   },
-]
-
+];
 export function Menu() {
   const location = useLocation();
   return (
-    <Sidebar collapsible="icon">
+    <Sidebar>
       <SidebarContent>
         <SidebarGroup>
           <SidebarMenu>
@@ -78,50 +70,45 @@ export function Menu() {
             </SidebarMenu>
           </SidebarGroupContent>
         </SidebarGroup>
+        {/* 调整“改进”部分与上方的间距 */}
         <SidebarGroup>
           <SidebarMenu>
-            <SidebarGroupLabel>改进</SidebarGroupLabel>
+            <SidebarGroupLabel>加入QQ频道</SidebarGroupLabel>
           </SidebarMenu>
-          <SidebarMenu>
-            <SidebarMenuItem>
-              <SidebarMenuButton asChild>
-                <a href="https://pd.qq.com/s/115ng3af4" target="_blank">
-                  <Github/>
-                  <span>功能建议</span>
-                </a>
-              </SidebarMenuButton>
-            </SidebarMenuItem>            
-            <SidebarMenuItem>
-              <SidebarMenuButton asChild>
-                <a href="https://wqonline.com" target="_blank">
-                  <Code/>
-                  <span>攻略网站</span>
-                </a>
-              </SidebarMenuButton>
-            </SidebarMenuItem>
-          </SidebarMenu>
-        </SidebarGroup>        
-        <SidebarGroup>          
-          <SidebarGroupContent>
-            <SidebarImage 
-              src={bannerImg}
-              alt="活动图片"
-              className="p-2 hover:opacity-90 transition-opacity"
-            />
-          </SidebarGroupContent>
+          {/* 告示板样式内容区域 */}
+          <div
+            style={{
+              background: "#e5e7eb", // 更柔和的灰色，适合大多数浅色主题
+              borderRadius: "8px",
+              padding: "12px",
+              margin: "12px 8px 0 8px",
+              color: "#222",
+              fontSize: "13px",
+              boxShadow: "0 1px 6px rgba(0,0,0,0.05)",
+              lineHeight: 1.8,
+              textAlign: "left"
+            }}
+          >            
+            QQ频道：流放之路研习所<br />频道号：pathofexile<br />微信小程序→搜索 qq频道
+          </div>
+          
         </SidebarGroup>
-        <SidebarGroup>          
-          <SidebarMenu>
-            <SidebarMenuItem>
-              <SidebarMenuButton asChild>
-                <a href="https://buymeacoffee.com/veiset" target="_blank">
-                  <Coffee />
-                  <span>赞助原作者</span>
-                </a>                         
-              </SidebarMenuButton>
-            </SidebarMenuItem>
-          </SidebarMenu>
-        </SidebarGroup>
+        {/* 图片放在底部，宽度自适应，居中且圆角，避免撑出滚动条 */}
+        <div style={{ width: "100%", display: "flex", justifyContent: "center", marginTop: 16, marginBottom: 8 }}>
+          <SidebarImage
+            src={bannerImg}
+            alt="Banner"
+            style={{
+              width: "auto",
+              height: "auto",
+              maxWidth: "140px",
+              maxHeight: "140px",
+              borderRadius: "8px",
+              objectFit: "contain",
+              boxShadow: "0 2px 8px rgba(0,0,0,0.08)"
+            }}
+          />
+        </div>
       </SidebarContent>
     </Sidebar>
   )

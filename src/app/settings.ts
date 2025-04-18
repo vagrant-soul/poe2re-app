@@ -6,7 +6,7 @@ export interface WebSettings {
 }
 
 export const defaultWebSettings: WebSettings = {
-  sidebarOpen: true,
+  sidebarOpen: false,
   optionsOpen: true,
 }
 
@@ -91,6 +91,7 @@ export interface Settings {
     rarity: {
       corrupted: boolean,
       uncorrupted: boolean,
+      upsixmods: boolean,
     },
     modifier: {
       over100: boolean,
@@ -203,6 +204,7 @@ export const defaultSettings: Settings = {
     rarity: {
       corrupted: false,
       uncorrupted: false,
+      upsixmods: false,
     },
     modifier: {
       over100: false,

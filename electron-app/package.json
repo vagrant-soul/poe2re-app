@@ -1,31 +1,35 @@
 {
-  "name": "electron-app",
+  "name": "poe2re-app", 
   "version": "1.0.0",
-  "description": "",
+  "description": "流放之路2正则生成工具",
   "main": "main.js",
   "scripts": {
-      "start": "electron .",
-      "pack": "electron-builder --dir",
-      "dist": "electron-builder"
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
   },
   "keywords": [],
-  "author": "",
+  "author": "Vagrant Soul",
   "license": "ISC",
   "devDependencies": {
-      "electron": "^22.0.0",
-      "electron-builder": "^23.6.0"
+    "electron": "^22.0.0",
+    "electron-builder": "^23.6.0"
   },
   "build": {
-      "appId": "com.example.electronapp",
-      "win": {
-          "target": [
-              "nsis",
-              "portable"
-          ]
-      },
-      "files": [
-        "main.js",
-        "renderer/**/*"
-        ]    
+    "appId": "com.example.poe2re-app", 
+    "productName": "poe2re-app",     
+    "win": {
+      "target": [
+        "nsis",
+        "portable"
+      ]
+    },
+    "files": [
+      "main.js",
+      "renderer/**/*"
+    ]
+  },
+  "dependencies": {
+    "electron-store": "^10.0.1"
   }
 }

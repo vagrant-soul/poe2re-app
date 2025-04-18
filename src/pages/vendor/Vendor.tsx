@@ -23,7 +23,7 @@ export function Vendor() {
 
   return (
     <>
-      <Header name="商店正则生成"></Header>
+      <Header name="⬅ 商店正则生成"></Header>
       <div className="flex bg-muted grow-0 flex-1 flex-col gap-2 ">
         <Result
           result={result}
@@ -246,145 +246,135 @@ export function Vendor() {
             />
 
           </div>
-          <div>
+          <div className="col-span-full">
             <p className="text-xs font-medium text-sidebar-foreground/70 pb-2 pt-2">物品類型-飾品</p>
-            <Checked id="type-amulet" text="項鍊"
-                     checked={settings.itemClass.amulets}
-                     onChange={(b) => setSettings({
-                       ...settings, itemClass: {...settings.itemClass, amulets: b}
-                     })}
-            />
-            <Checked id="type-rings" text="戒指"
-                     checked={settings.itemClass.rings}
-                     onChange={(b) => setSettings({
-                       ...settings, itemClass: {...settings.itemClass, rings: b}
-                     })}
-            />
-            <Checked id="type-belts" text="腰帶"
-                     checked={settings.itemClass.belts}
-                     onChange={(b) => setSettings({
-                       ...settings, itemClass: {...settings.itemClass, belts: b}
-                     })}
-            />
+            <div className="flex flex-wrap gap-x-4 gap-y-2">
+              <Checked id="type-amulet" text="項鍊"
+                       checked={settings.itemClass.amulets}
+                       onChange={(b) => setSettings({
+                         ...settings, itemClass: {...settings.itemClass, amulets: b}
+                       })}
+              />
+              <Checked id="type-rings" text="戒指"
+                       checked={settings.itemClass.rings}
+                       onChange={(b) => setSettings({
+                         ...settings, itemClass: {...settings.itemClass, rings: b}
+                       })}
+              />
+              <Checked id="type-belts" text="腰帶"
+                       checked={settings.itemClass.belts}
+                       onChange={(b) => setSettings({
+                         ...settings, itemClass: {...settings.itemClass, belts: b}
+                       })}
+              />
+            </div>
 
             <p className="text-xs font-medium text-sidebar-foreground/70 pb-2 pt-4">物品類型-單手武器</p>
-            {/*<Checked id="type-daggers" text="Daggers"*/}
-            {/*         checked={settings.itemClass.daggers}*/}
-            {/*         onChange={(b) => setSettings({*/}
-            {/*           ...settings, itemClass: {...settings.itemClass, daggers: b}*/}
-            {/*         })}*/}
-            {/*/>*/}
-            <Checked id="type-wands" text="法杖"
-                     checked={settings.itemClass.wands}
-                     onChange={(b) => setSettings({
-                       ...settings, itemClass: {...settings.itemClass, wands: b}
-                     })}
-            />
-            <Checked id="type-1h-maces" text="單手錘"
-                     checked={settings.itemClass.oneHandMaces}
-                     onChange={(b) => setSettings({
-                       ...settings, itemClass: {...settings.itemClass, oneHandMaces: b}
-                     })}
-            />
-            <Checked id="type-sceptres" text="權杖"
-                     checked={settings.itemClass.sceptres}
-                     onChange={(b) => setSettings({
-                       ...settings, itemClass: {...settings.itemClass, sceptres: b}
-                     })}
-            />
-            {/*<Checked id="type-claws" text="Claws"/>*/}
-            {/*<Checked id="type-1h-sword" text="One Hand Swords"/>*/}
-            {/*<Checked id="type-1h-axes" text="One Hand Axes"/>*/}
-            {/*<Checked id="type-spears" text="Spears"/>*/}
-            {/*<Checked id="type-flails" text="Flails"/>*/}
+            <div className="flex flex-wrap gap-x-4 gap-y-2">
+              {/*<Checked id="type-daggers" text="Daggers" ... />*/}
+              <Checked id="type-wands" text="法杖"
+                       checked={settings.itemClass.wands}
+                       onChange={(b) => setSettings({
+                         ...settings, itemClass: {...settings.itemClass, wands: b}
+                       })}
+              />
+              <Checked id="type-1h-maces" text="單手錘"
+                       checked={settings.itemClass.oneHandMaces}
+                       onChange={(b) => setSettings({
+                         ...settings, itemClass: {...settings.itemClass, oneHandMaces: b}
+                       })}
+              />
+              <Checked id="type-sceptres" text="權杖"
+                       checked={settings.itemClass.sceptres}
+                       onChange={(b) => setSettings({
+                         ...settings, itemClass: {...settings.itemClass, sceptres: b}
+                       })}
+              />
+            </div>
 
             <p className="text-xs font-medium text-sidebar-foreground/70 pb-2 pt-4">物品類型-雙手武器</p>
-            <Checked id="type-bows" text="弓"
-                     checked={settings.itemClass.bows}
-                     onChange={(b) => setSettings({
-                       ...settings, itemClass: {...settings.itemClass, bows: b}
-                     })}
-
-            />
-            <Checked id="type-staves" text="長杖"
-                     checked={settings.itemClass.staves}
-                     onChange={(b) => setSettings({
-                       ...settings, itemClass: {...settings.itemClass, staves: b}
-                     })}
-
-            />
-            <Checked id="type-2h-maces" text="雙手錘"
-                     checked={settings.itemClass.twoHandMaces}
-                     onChange={(b) => setSettings({
-                       ...settings, itemClass: {...settings.itemClass, twoHandMaces: b}
-                     })}
-
-            />
-            <Checked id="type-q-staves" text="細杖"
-                     checked={settings.itemClass.quarterstaves}
-                     onChange={(b) => setSettings({
-                       ...settings, itemClass: {...settings.itemClass, quarterstaves: b}
-                     })}
-            />
-            <Checked id="type-crossbow" text="十字弩"
-                     checked={settings.itemClass.crossbows}
-                     onChange={(b) => setSettings({
-                       ...settings, itemClass: {...settings.itemClass, crossbows: b}
-                     })}
-            />
-            {/*<Checked id="type-2h-swords" text="Two Hand Swords"/>*/}
-            {/*<Checked id="type-2h-axes" text="Two Hand Axes"/>*/}
-            {/*<Checked id="type-traps" text="Traps"/>*/}
-
+            <div className="flex flex-wrap gap-x-4 gap-y-2">
+              <Checked id="type-bows" text="弓"
+                       checked={settings.itemClass.bows}
+                       onChange={(b) => setSettings({
+                         ...settings, itemClass: {...settings.itemClass, bows: b}
+                       })}
+              />
+              <Checked id="type-staves" text="長杖"
+                       checked={settings.itemClass.staves}
+                       onChange={(b) => setSettings({
+                         ...settings, itemClass: {...settings.itemClass, staves: b}
+                       })}
+              />
+              <Checked id="type-2h-maces" text="雙手錘"
+                       checked={settings.itemClass.twoHandMaces}
+                       onChange={(b) => setSettings({
+                         ...settings, itemClass: {...settings.itemClass, twoHandMaces: b}
+                       })}
+              />
+              <Checked id="type-q-staves" text="細杖"
+                       checked={settings.itemClass.quarterstaves}
+                       onChange={(b) => setSettings({
+                         ...settings, itemClass: {...settings.itemClass, quarterstaves: b}
+                       })}
+              />
+              <Checked id="type-crossbow" text="十字弩"
+                       checked={settings.itemClass.crossbows}
+                       onChange={(b) => setSettings({
+                         ...settings, itemClass: {...settings.itemClass, crossbows: b}
+                       })}
+              />
+            </div>
 
             <p className="text-xs font-medium text-sidebar-foreground/70 pb-2 pt-4">物品類型-護甲</p>
-            <Checked id="type-gloves" text="手套"
-                     checked={settings.itemClass.gloves}
-                     onChange={(b) => setSettings({
-                       ...settings, itemClass: {...settings.itemClass, gloves: b}
-                     })}
-
-            />
-            <Checked id="type-boots" text="鞋子"
-                     checked={settings.itemClass.boots}
-                     onChange={(b) => setSettings({
-                       ...settings, itemClass: {...settings.itemClass, boots: b}
-                     })}
-
-            />
-            <Checked id="type-body" text="胸甲"
-                     checked={settings.itemClass.bodyArmours}
-                     onChange={(b) => setSettings({
-                       ...settings, itemClass: {...settings.itemClass, bodyArmours: b}
-                     })}
-
-            />
-            <Checked id="type-helm" text="頭盔"
-                     checked={settings.itemClass.helmets}
-                     onChange={(b) => setSettings({
-                       ...settings, itemClass: {...settings.itemClass, helmets: b}
-                     })}
-            />
+            <div className="flex flex-wrap gap-x-4 gap-y-2">
+              <Checked id="type-gloves" text="手套"
+                       checked={settings.itemClass.gloves}
+                       onChange={(b) => setSettings({
+                         ...settings, itemClass: {...settings.itemClass, gloves: b}
+                       })}
+              />
+              <Checked id="type-boots" text="鞋子"
+                       checked={settings.itemClass.boots}
+                       onChange={(b) => setSettings({
+                         ...settings, itemClass: {...settings.itemClass, boots: b}
+                       })}
+              />
+              <Checked id="type-body" text="胸甲"
+                       checked={settings.itemClass.bodyArmours}
+                       onChange={(b) => setSettings({
+                         ...settings, itemClass: {...settings.itemClass, bodyArmours: b}
+                       })}
+              />
+              <Checked id="type-helm" text="頭盔"
+                       checked={settings.itemClass.helmets}
+                       onChange={(b) => setSettings({
+                         ...settings, itemClass: {...settings.itemClass, helmets: b}
+                       })}
+              />
+            </div>
 
             <p className="text-xs font-medium text-sidebar-foreground/70 pb-2 pt-4">物品類型-副手</p>
-            <Checked id="type-quiver" text="箭袋"
-                     checked={settings.itemClass.quivers}
-                     onChange={(b) => setSettings({
-                       ...settings, itemClass: {...settings.itemClass, quivers: b}
-                     })}
-            />
-            <Checked id="type-foci" text="法器"
-                     checked={settings.itemClass.foci}
-                     onChange={(b) => setSettings({
-                       ...settings, itemClass: {...settings.itemClass, foci: b}
-                     })}
-            />
-            <Checked id="type-shields" text="盾"
-                     checked={settings.itemClass.shields}
-                     onChange={(b) => setSettings({
-                       ...settings, itemClass: {...settings.itemClass, shields: b}
-                     })}
-            />
+            <div className="flex flex-wrap gap-x-4 gap-y-2">
+              <Checked id="type-quiver" text="箭袋"
+                       checked={settings.itemClass.quivers}
+                       onChange={(b) => setSettings({
+                         ...settings, itemClass: {...settings.itemClass, quivers: b}
+                       })}
+              />
+              <Checked id="type-foci" text="法器"
+                       checked={settings.itemClass.foci}
+                       onChange={(b) => setSettings({
+                         ...settings, itemClass: {...settings.itemClass, foci: b}
+                       })}
+              />
+              <Checked id="type-shields" text="盾"
+                       checked={settings.itemClass.shields}
+                       onChange={(b) => setSettings({
+                         ...settings, itemClass: {...settings.itemClass, shields: b}
+                       })}
+              />
+            </div>
           </div>
         </div>
       </div>
