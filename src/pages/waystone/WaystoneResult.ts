@@ -72,7 +72,7 @@ function generateRarity(settings: Settings["waystone"]["rarity"]): string | null
   if (settings.uncorrupted && settings.corrupted && settings.upsixmods) return null;
   if (settings.corrupted) return "corr";
   if (settings.uncorrupted) return "!corr";
-  if (settings.upsixmods) return "]: 0";
+  if (settings.upsixmods) return "\"]: 0\""; //修复六词缀正则复制没有引号的问题
   return null;
 }
 
