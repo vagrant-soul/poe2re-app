@@ -2,6 +2,7 @@ import vendorIcon from "@/img/whetstone_inventory_icon.png";
 import waystoneIcon from "@/img/waystone_inventory_icon.png";
 import tabletIcon from "@/img/precursortablet_inventory_icon.png";
 import relicIcon from "@/img/relic_inventory_icon.png";
+import bookIcon from "@/img/book_inventory_icon.png";
 import { Link } from "react-router-dom";
 import { Header } from "@/components/header/Header.tsx";
 
@@ -10,34 +11,33 @@ const Requests = () => {
     <div className="min-h-screen font-sans bg-none">
       <Header name="⬅ 打开菜单" />
       <main className="max-w-[540px] mx-auto mt-2 mb-0 bg-[#1e293b] rounded-2xl shadow-lg p-8 sm:p-6">
-        <h1 className="text-2xl sm:text-3xl font-bold text-center mb-3 tracking-wide text-white">
-          流放之路2正则工具
-        </h1>
-        {/* 信息提示卡片区域 */}
-        <div className="bg-[rgba(30,41,59,0.08)] rounded-xl px-5 py-4 mb-6 text-[#f3f4f6] shadow-md border-l-4 border-blue-500 text-[15px] leading-relaxed font-normal text-left">
-        <div className="font-bold text-base mb-1 text-blue-500 tracking-wide">
-            当前版本：V1.0.0
+        <div className="bg-gradient-to-r from-[#1e3a5f] to-[#2d4a6d] rounded-lg p-4 mb-2 text-white shadow-md">
+          
+          <p className="text-center text-sm mt-1 text-gray-300">当前版本还在测试中，欢迎反馈Bug</p>
+        </div>
+        
+        {/* 新的文档区域 - 类似截图中的设计 */}
+        <div className="bg-[#1e293b] rounded-xl p-6 mb-6 text-white shadow-md flex items-center">
+          <div className="flex-1">
+            <h1 className="text-3xl font-bold mb-2">POE2词缀助手</h1>
+            <p className="text-gray-300 mb-4">专为流放之路2玩家打造的物品筛选工具，直接生成对应的可精准定位的搜索字符串</p>
+            <Link 
+              to="/instructions" 
+              className="inline-block bg-[#2a3a4f] hover:bg-[#354a64] text-white font-medium py-2 px-4 rounded-md transition-colors duration-200 border border-[#3a4a5f]"
+            >
+              使用说明 →
+            </Link>
           </div>
-          <div className="font-bold text-base mb-1 text-blue-500 tracking-wide">
-            温馨提示
+          <div className="ml-4">
+            <img 
+              src={bookIcon} 
+              alt="使用说明" 
+              className="w-48 h-48 object-contain" 
+            />
           </div>
-          <ul className="list-disc pl-5 space-y-1">
-            <li>
-              工具根据开源项目veiset/poe2.re做修改，感谢<span className="text-blue-500 font-semibold mx-1">Vegard Veiset</span>
-            </li>
-            <li>
-              请使用<span className="text-blue-500 font-semibold mx-1">QQ频道</span>进行功能反馈
-            </li>
-            <li>
-              感谢：<span className="font-semibold text-white">Poe2DB 编年史</span> 提供数据支持
-            </li>
-            <li>
-              感谢大家<span className="text-blue-500 font-semibold mx-1">打赏</span>支持！工具已开源，欢迎大家Pr
-            </li>
-          </ul>
         </div>
 
-        <hr className="my-4 border-t border-gray-200" />
+        <hr className="my-2 border-t border-gray-200" />
 
         <section>
           <h2 className="text-xl sm:text-2xl font-semibold text-center mb-4 text-white">
@@ -80,27 +80,7 @@ const Requests = () => {
           </div>
         </section>
 
-        <section>
-          <h2 className="text-lg font-medium mb-3 border-b border-gray-200 pb-1 text-white">
-            近期更新
-          </h2>
-          <ul className="space-y-3 text-[15px] pl-0 m-0 list-none">
-            <li className="flex items-start gap-2">
-              <span className="inline-block px-2 py-0.5 rounded bg-green-500 text-white text-xs font-bold align-middle select-none">更新</span>
-              <div className="flex-1 text-gray-200">
-                <span className="font-semibold text-gray-100">V1.0.0</span>
-                <span className="ml-2">发布工具版本，增加地图0门六词缀地图筛选</span>
-              </div>
-            </li>
-            <li className="flex items-start gap-2">
-              <span className="inline-block px-2 py-0.5 rounded bg-blue-500 text-white text-xs font-bold align-middle select-none">修正</span>
-              <div className="flex-1 text-gray-200">
-                <span className="font-semibold text-gray-100">V0.9.2</span>
-                <span className="ml-2">新增碑牌词缀正则</span>
-              </div>
-            </li>
-          </ul>
-        </section>
+        
       </main>
     </div>
   );
@@ -108,6 +88,6 @@ const Requests = () => {
 
 // 现代化功能按钮样式（Tailwind类名）
 const featureBtnClass =
-  "flex items-center bg-gray-100 rounded-lg px-4 py-2 text-gray-900 font-medium text-base no-underline shadow-sm border border-gray-200 transition hover:bg-gray-200 hover:shadow-md";
+  "flex items-center bg-[#2a3a4f] rounded-lg px-4 py-2 text-gray-100 font-medium text-base no-underline shadow-sm border border-[#3a4a5f] transition hover:bg-[#354a64] hover:shadow-md";
 
 export default Requests;

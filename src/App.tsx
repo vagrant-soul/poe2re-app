@@ -9,6 +9,7 @@ import {Vendor} from "@/pages/vendor/Vendor.tsx";
 import {Waystone} from "@/pages/waystone/Waystone.tsx";
 import {Tablet} from "@/pages/tablet/Tablet.tsx";
 import {Relic} from "@/pages/relic/Relic.tsx";
+import Instructions from "@/pages/requests/Instructions.tsx";
 import {loadWebSettings, saveWebSettings} from "@/lib/localStorage.ts";
 
 
@@ -43,6 +44,7 @@ export default function App() {
             <Route path="/waystone" element={<Waystone/>}/>
             <Route path="/tablet" element={<Tablet/>}/>
             <Route path="/relic" element={<Relic/>}/>
+            <Route path="/instructions" element={<Instructions/>}/>
           </Routes>
         </SidebarInset>
       </SidebarProvider>
