@@ -12,6 +12,7 @@ export function generateRelicResult(settings: Settings): string {
       .filter((e) => e.isSelected)
       .map((e) => selectedOptionRegex(e, false, false))
       .join("|"),
+      settings.relic.resultSettings.customText || null,
   ].filter((e) => e !== null && e !== "");
 
   if (modifiers.length === 0) {

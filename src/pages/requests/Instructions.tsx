@@ -1,7 +1,47 @@
 import { Header } from "@/components/header/Header.tsx";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion.tsx";
 import dashangImg from "@/img/dashang.png";
+import { useState } from "react";
+
+// 定义当前版本号常量
+const CURRENT_VERSION = 'V1.1.0';
+
+// 使用类型断言简化代码
 const Instructions = () => {
+  const [latestVersion, setLatestVersion] = useState<string | null>(null);
+  const [isChecking, setIsChecking] = useState(false);
+  const [checkError, setCheckError] = useState<string | null>(null);
+  const [isBrowserEnv, setIsBrowserEnv] = useState(false);
+  
+  const checkForUpdates = async () => {
+    setIsChecking(true);
+    setCheckError(null);
+    setIsBrowserEnv(false);
+    
+    try {
+      // 检查 window.electron 是否存在
+      if (typeof window !== 'undefined' && (window as any).electron) {
+        try {
+          // 如果在 Electron 环境中
+          const version = await (window as any).electron.ipcRenderer.invoke('check-for-updates');
+          setLatestVersion(version);
+        } catch (error) {
+          console.error('检查更新失败:', error);
+          setCheckError(error instanceof Error ? error.message : '检查更新失败');
+        }
+      } else {
+        // 如果在浏览器环境中，标记为浏览器环境
+        setIsBrowserEnv(true);
+        console.log('浏览器环境检测到，无法检查更新');
+      }
+    } catch (error) {
+      console.error('检查环境失败:', error);
+      setCheckError(error instanceof Error ? error.message : '检查更新失败');
+    } finally {
+      setIsChecking(false);
+    }
+  };
+  
   return (
     <div className="min-h-screen font-sans bg-none">
       <Header name="⬅ 打开菜单" />
@@ -12,10 +52,42 @@ const Instructions = () => {
 
         <div className="flex flex-col md:flex-row gap-6 mb-6">
           <div className="bg-[rgba(30,41,59,0.08)] rounded-xl px-5 py-4 text-[#f3f4f6] shadow-md border-l-4 border-blue-500 text-[15px] leading-relaxed font-normal text-left flex-1">
-            <div className="font-bold text-base mb-1 text-blue-500 tracking-wide">
-              当前版本：
-              <span className="inline-block px-2 py-0.5 rounded bg-green-500 text-white text-xs font-bold align-middle select-none">V1.1.0</span>
+            <div className="font-bold text-base mb-1 text-blue-500 tracking-wide flex items-center justify-between">
+              <div>
+                当前版本：
+                <span className="inline-block px-2 py-0.5 rounded bg-green-500 text-white text-xs font-bold align-middle select-none">{CURRENT_VERSION}</span>
+              </div>
+              <button 
+                onClick={checkForUpdates}
+                disabled={isChecking}
+                className="px-3 py-1 bg-blue-600 hover:bg-blue-700 text-white text-xs rounded transition-colors duration-200 flex items-center"
+              >
+                {isChecking ? (
+                  <span className="flex items-center">
+                    <svg className="animate-spin -ml-1 mr-2 h-4 w-4 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                      <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                      <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                    </svg>
+                    检查中...
+                  </span>
+                ) : "检查更新"}
+              </button>
             </div>
+            {isBrowserEnv && (
+              <div className="text-sm mt-1 mb-2 text-amber-400">
+                ⚠️ 浏览器环境无法检查更新，请在应用中使用此功能
+              </div>
+            )}
+            {latestVersion && !isBrowserEnv && (
+              <div className={`text-sm mt-1 mb-2 ${latestVersion === CURRENT_VERSION ? 'text-green-400' : 'text-yellow-400'}`}>
+                {latestVersion === CURRENT_VERSION ? '✓ 已是最新版本' : `✦ 发现新版本: ${latestVersion}`}
+              </div>
+            )}
+            {checkError && (
+              <div className="text-sm mt-1 mb-2 text-red-400">
+                ✗ {checkError}
+              </div>
+            )}
             <div className="font-bold text-base mb-1 text-blue-500 tracking-wide">
               温馨提示
             </div>
@@ -60,19 +132,20 @@ const Instructions = () => {
           <li className="flex items-start gap-2">
               <span className="inline-block px-2 py-0.5 rounded bg-green-500 text-white text-xs font-bold align-middle select-none">更新</span>
               <div className="flex-1 text-gray-200">
-                <span className="font-semibold text-gray-100">V1.1.0</span>
+                <span className="font-semibold text-gray-100">{CURRENT_VERSION}</span>
                 <span className="ml-2">命名为：POE2词缀助手</span>
                 <ul className="list-disc pl-5 mt-1">
                   <li>新增使用说明页面</li>
                   <li>优化程序，加入托盘图标</li>
-                  <li>修复几个正则表达公式</li>
+                  <li>支持更新检查，没有服务器，暂不提供在线更新</li>
+                  <li>修复自定义输入部分个别页面无效的问题</li>
                 </ul>
               </div>
             </li>
             <li className="flex items-start gap-2">
               <span className="inline-block px-2 py-0.5 rounded bg-green-500 text-white text-xs font-bold align-middle select-none">更新</span>
               <div className="flex-1 text-gray-200">
-                <span className="font-semibold text-gray-100">V1.0.0</span>
+                <span className="font-semibold text-gray-100">V1.0</span>
                 <span className="ml-2">发布工具版本，增加地图0门六词缀地图筛选</span>
               </div>
             </li>

@@ -12,6 +12,7 @@ export function generateTabletResult(settings: Settings): string {
       .filter((e) => e.isSelected)
       .map((e) => selectedOptionRegex(e, false, false))
       .join("|"),
+    settings.tablet.resultSettings.customText || null,  // 添加自定义文本
   ].filter((e) => e !== null && e !== "");
 
   if (modifiers.length === 0) {

@@ -1,26 +1,62 @@
-const { app, BrowserWindow, globalShortcut, Tray, Menu } = require('electron');  // 添加 Tray 和 Menu 模块
+const { app, BrowserWindow, globalShortcut, Tray, Menu, ipcMain } = require('electron');
 const path = require('path');
+const https = require('https');
 
-let tray = null; // 定义托盘变量
-let win = null;  // 定义窗口变量，使其可以在函数外部访问
+// 添加应用启动时间记录
+console.time('app-startup');
+
+let tray = null;
+let win = null;
+
+// 预先定义菜单模板，避免每次创建托盘时重新生成
+const contextMenuTemplate = [
+    { 
+        label: '显示窗口-F5', 
+        click: () => {
+            if (win) {
+                win.show();
+                win.focus();
+            }
+        } 
+    },
+    { 
+        label: '隐藏窗口-F6', 
+        click: () => {
+            if (win) {
+                win.hide();
+            }
+        } 
+    },        
+    { type: 'separator' },
+    { 
+        label: '退出', 
+        click: () => {
+            app.isQuitting = true;
+            app.quit();
+        } 
+    }
+];
 
 function createWindow() {
+    // 使用更轻量级的窗口配置
     win = new BrowserWindow({
         width: 920,
         height: 600,
-        minWidth: 800,          // 添加最小尺寸限制
+        minWidth: 800,
         minHeight: 500,
         autoHideMenuBar: true,
-        backgroundColor: '#1a1a1a',    // 设置窗口背景色
-        hasShadow: true,               // 启用窗口阴影
-        thickFrame: true,              // 使用厚边框样式
-        titleBarStyle: 'hiddenInset',  // 改进的标题栏样式
-        icon: path.join(__dirname, 'icons/icon.png'),
+        backgroundColor: '#1a1a1a',
+        // 减少不必要的窗口特性
+        hasShadow: true,
+        thickFrame: true,
+        titleBarStyle: 'hiddenInset',
+        icon: path.join(__dirname, 'icons/app.ico'),
         webPreferences: {
-            nodeIntegration: true,
-            contextIsolation: false,
-            enableRemoteModule: true,
-            webSecurity: false  
+            nodeIntegration: false,
+            contextIsolation: true,  // 启用上下文隔离
+            enableRemoteModule: false,
+            webSecurity: true,
+            preload: path.join(__dirname, 'preload.js')  // 添加预加载脚本
         }
     });
 
@@ -54,19 +90,22 @@ function createWindow() {
     
     // 在页面加载完成后注入滚动条样式
     win.webContents.on('did-finish-load', () => {
-        win.webContents.insertCSS(`
-            ::-webkit-scrollbar {
-                width: 8px;
-                background-color: rgba(30,30,30,0.1);
-            }
-            ::-webkit-scrollbar-thumb {
-                background-color: #3a3a3a;
-                border-radius: 4px;
-            }
-            ::-webkit-scrollbar-thumb:hover {
-                background-color: #4a4a4a;
-            }
-        `);
+        // 使用setTimeout延迟注入非关键CSS
+        setTimeout(() => {
+            win.webContents.insertCSS(`
+                ::-webkit-scrollbar {
+                    width: 8px;
+                    background-color: rgba(30,30,30,0.1);
+                }
+                ::-webkit-scrollbar-thumb {
+                    background-color: #3a3a3a;
+                    border-radius: 4px;
+                }
+                ::-webkit-scrollbar-thumb:hover {
+                    background-color: #4a4a4a;
+                }
+            `);
+        }, 100);
     });
     
     // 添加窗口关闭事件处理
@@ -91,43 +130,12 @@ function createWindow() {
 
 // 创建托盘图标
 function createTray() {
-    // 使用与应用相同的图标
-    const iconPath = path.join(__dirname, 'icons/icon.png');
+    const iconPath = path.join(__dirname, 'icons/app.ico');
     tray = new Tray(iconPath);
+    tray.setToolTip('POE2词缀助手');
     
-    // 设置托盘图标的提示文本
-    tray.setToolTip('流放之路2正则生成工具');
-    
-    // 创建托盘菜单
-    const contextMenu = Menu.buildFromTemplate([
-        { 
-            label: '显示窗口-F5', 
-            click: () => {
-                if (win) {
-                    win.show();
-                    win.focus();
-                }
-            } 
-        },
-        { 
-            label: '隐藏窗口-F6', 
-            click: () => {
-                if (win) {
-                    win.hide();
-                }
-            } 
-        },
-        { type: 'separator' },
-        { 
-            label: '退出', 
-            click: () => {
-                app.isQuitting = true;
-                app.quit();
-            } 
-        }
-    ]);
-    
-    // 设置托盘的上下文菜单
+    // 使用预定义的菜单模板
+    const contextMenu = Menu.buildFromTemplate(contextMenuTemplate);
     tray.setContextMenu(contextMenu);
     
     // 点击托盘图标时显示窗口
@@ -138,9 +146,21 @@ function createTray() {
     });
 }
 
+// 使用app.whenReady()的Promise特性优化启动流程
 app.whenReady().then(() => {
-    createWindow();
-    createTray(); // 创建托盘图标
+    // 并行创建窗口和托盘
+    Promise.all([
+        new Promise(resolve => {
+            createWindow();
+            resolve();
+        }),
+        new Promise(resolve => {
+            createTray();
+            resolve();
+        })
+    ]).then(() => {
+        console.log('应用已启动');
+    });
     
     app.on('activate', function () {
         if (BrowserWindow.getAllWindows().length === 0) createWindow();
@@ -154,4 +174,45 @@ app.on('will-quit', () => {
 
 app.on('window-all-closed', function () {
     if (process.platform !== 'darwin') app.quit();
+});
+
+// 添加 IPC 处理程序
+ipcMain.handle('check-for-updates', async () => {
+  return new Promise((resolve, reject) => {
+    const req = https.get('https://cnb.cool/vagrant_soul/poe2-app-update/-/git/raw/main/updata.txt', (res) => {
+      if (res.statusCode !== 200) {
+        reject(new Error(`请求失败，状态码: ${res.statusCode}`));
+        return;
+      }
+      
+      let data = '';
+      
+      res.on('data', (chunk) => {
+        data += chunk;
+      });
+      
+      res.on('end', () => {
+        try {
+          // 简单解析版本信息，可以根据实际格式调整
+          const versionMatch = data.match(/version:\s*([^\s]+)/i);
+          if (versionMatch && versionMatch[1]) {
+            resolve(versionMatch[1]);
+          } else {
+            reject(new Error('无法解析版本信息'));
+          }
+        } catch (error) {
+          reject(error);
+        }
+      });
+    });
+    
+    req.on('error', (error) => {
+      reject(error);
+    });
+    
+    req.setTimeout(10000, () => {
+      req.destroy();
+      reject(new Error('请求超时'));
+    });
+  });
 });
