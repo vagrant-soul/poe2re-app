@@ -4,7 +4,7 @@ import dashangImg from "@/img/dashang.png";
 import { useState } from "react";
 
 // 定义当前版本号常量
-const CURRENT_VERSION = 'V1.1.0';
+const CURRENT_VERSION = 'V1.2.0';
 
 // 使用类型断言简化代码
 const Instructions = () => {
@@ -130,9 +130,20 @@ const Instructions = () => {
           </h2>
           <ul className="space-y-3 text-[15px] pl-0 m-0 list-none">
           <li className="flex items-start gap-2">
+              <span className="inline-block px-2 py-0.5 rounded bg-[#ef6916] text-white text-xs font-bold align-middle select-none">新增</span>
+              <div className="flex-1 text-gray-200">
+                <span className="font-semibold text-gray-100">V1.2.0</span>
+                <span className="ml-2"></span>
+                <ul className="list-disc pl-5 mt-1">
+                  <li>新增简繁智荐页面(Beta)</li>
+                  <li>修复个别错误</li>
+                </ul>
+              </div>
+            </li>
+            <li className="flex items-start gap-2">
               <span className="inline-block px-2 py-0.5 rounded bg-green-500 text-white text-xs font-bold align-middle select-none">更新</span>
               <div className="flex-1 text-gray-200">
-                <span className="font-semibold text-gray-100">{CURRENT_VERSION}</span>
+                <span className="font-semibold text-gray-100">V1.1.0</span>
                 <span className="ml-2">命名为：POE2词缀助手</span>
                 <ul className="list-disc pl-5 mt-1">
                   <li>新增使用说明页面</li>
@@ -145,17 +156,11 @@ const Instructions = () => {
             <li className="flex items-start gap-2">
               <span className="inline-block px-2 py-0.5 rounded bg-green-500 text-white text-xs font-bold align-middle select-none">更新</span>
               <div className="flex-1 text-gray-200">
-                <span className="font-semibold text-gray-100">V1.0</span>
+                <span className="font-semibold text-gray-100">V1.0.0</span>
                 <span className="ml-2">发布工具版本，增加地图0门六词缀地图筛选</span>
               </div>
             </li>
-            <li className="flex items-start gap-2">
-              <span className="inline-block px-2 py-0.5 rounded bg-blue-500 text-white text-xs font-bold align-middle select-none">修正</span>
-              <div className="flex-1 text-gray-200">
-                <span className="font-semibold text-gray-100">V0.9.2</span>
-                <span className="ml-2">新增碑牌词缀正则</span>
-              </div>
-            </li>
+            
           </ul>
         </section>
         <hr className="my-2 border-t border-gray-200" />

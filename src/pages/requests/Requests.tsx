@@ -40,6 +40,27 @@ const Requests = () => {
         <hr className="my-2 border-t border-gray-200" />
 
         <section>
+          
+                    {/* 简繁智荐模块 - 单列布局 */}
+                    <div className="mb-6">
+            <h2 className="text-xl sm:text-2xl font-semibold text-center mb-4 text-white">
+              新增功能
+            </h2>
+            <div className="flex justify-center">
+              <Link
+                to="/customsearch"
+                className={`${featureBtnClass} group w-full max-w-md py-3 bg-gradient-to-r from-green-800/80 to-green-700/80 border-green-600/50 hover:from-green-700/80 hover:to-green-600/80`}
+              >
+                <div className="flex items-center justify-center w-full">
+                  <svg className="w-6 h-6 mr-2 text-green-300 transition-transform duration-200 group-hover:scale-110" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                  </svg>
+                  <span className="text-lg font-medium text-green-100">简繁智荐(Beta)</span>
+                </div>
+                <p className="w-full text-center text-xs text-green-200/80 mt-2">自动简体转繁体<br />支持中英文模糊搜索，智能推荐结果</p>
+              </Link>
+            </div>
+          </div>
           <h2 className="text-xl sm:text-2xl font-semibold text-center mb-4 text-white">
             当前功能
           </h2>
@@ -78,6 +99,8 @@ const Requests = () => {
               <span className="ml-2">圣物正则</span>
             </Link>
           </div>
+          
+
         </section>
 
         
