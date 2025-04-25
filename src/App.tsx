@@ -11,7 +11,7 @@ import {Tablet} from "@/pages/tablet/Tablet.tsx";
 import {Relic} from "@/pages/relic/Relic.tsx";
 import Instructions from "@/pages/requests/Instructions.tsx";
 import {loadWebSettings, saveWebSettings} from "@/lib/localStorage.ts";
-
+import {CustomSearch} from "@/pages/customsearch/CustomSearch";
 
 export default function App() {  
   const webSettings = loadWebSettings();
@@ -45,6 +45,7 @@ export default function App() {
             <Route path="/tablet" element={<Tablet/>}/>
             <Route path="/relic" element={<Relic/>}/>
             <Route path="/instructions" element={<Instructions/>}/>
+            <Route path="/customsearch" element={<CustomSearch/>}/>
           </Routes>
         </SidebarInset>
       </SidebarProvider>

@@ -120,6 +120,9 @@ export interface Settings {
       prefixes: SelectOption[],
       suffixes: SelectOption[],
     }
+  },
+  customsearch: {
+    resultSettings: ResultSettings,
   }
 }
 
@@ -233,5 +236,8 @@ export const defaultSettings: Settings = {
       prefixes: [],
       suffixes: [],
     }
+  },
+  customsearch: {
+    resultSettings: defaultResultSettings,
   }
 }

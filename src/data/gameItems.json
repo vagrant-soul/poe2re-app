@@ -1,0 +1,7737 @@
+[
+  {
+    "id": "Rampart Raptor",
+    "name": "壁壘猛禽",
+    "nameen": "Rampart Raptor",
+    "tag": "十字弓",
+    "colors": "uniques"
+  },
+  {
+    "id": "Mist Whisper",
+    "name": "迷霧低語者",
+    "nameen": "Mist Whisper",
+    "tag": "十字弓",
+    "colors": "uniques"
+  },
+  {
+    "id": "Death's Harp",
+    "name": "冥使之琴",
+    "nameen": "Death's Harp",
+    "tag": "弓",
+    "colors": "uniques"
+  },
+  {
+    "id": "Doomfletch",
+    "name": "滅世",
+    "nameen": "Doomfletch",
+    "tag": "弓",
+    "colors": "uniques"
+  },
+  {
+    "id": "Splinterheart",
+    "name": "裂心",
+    "nameen": "Splinterheart",
+    "tag": "弓",
+    "colors": "uniques"
+  },
+  {
+    "id": "Slivertongue",
+    "name": "裂舌",
+    "nameen": "Slivertongue",
+    "tag": "弓",
+    "colors": "uniques"
+  },
+  {
+    "id": "Quill Rain",
+    "name": "驟雨之弦",
+    "nameen": "Quill Rain",
+    "tag": "弓",
+    "colors": "uniques"
+  },
+  {
+    "id": "Voltaxic Rift",
+    "name": "魔暴之痕",
+    "nameen": "Voltaxic Rift",
+    "tag": "弓",
+    "colors": "uniques"
+  },
+  {
+    "id": "Widowhail",
+    "name": "鰥寡之托",
+    "nameen": "Widowhail",
+    "tag": "弓",
+    "colors": "uniques"
+  },
+  {
+    "id": "Death Rush",
+    "name": "亡者呼喚",
+    "nameen": "Death Rush",
+    "tag": "戒指",
+    "colors": "uniques"
+  },
+  {
+    "id": "Icefang Orbit",
+    "name": "冰風軌跡",
+    "nameen": "Icefang Orbit",
+    "tag": "戒指",
+    "colors": "uniques"
+  },
+  {
+    "id": "Kalandra's Touch",
+    "name": "卡蘭德之觸",
+    "nameen": "Kalandra's Touch",
+    "tag": "戒指",
+    "colors": "uniques"
+  },
+  {
+    "id": "Original Sin",
+    "name": "原罪",
+    "nameen": "Original Sin",
+    "tag": "戒指",
+    "colors": "uniques"
+  },
+  {
+    "id": "Dream Fragments",
+    "name": "夢語之痕",
+    "nameen": "Dream Fragments",
+    "tag": "戒指",
+    "colors": "uniques"
+  },
+  {
+    "id": "Blackheart",
+    "name": "幽暗之語",
+    "nameen": "Blackheart",
+    "tag": "戒指",
+    "colors": "uniques"
+  },
+  {
+    "id": "Doedre's Damning",
+    "name": "德瑞的魔具",
+    "nameen": "Doedre's Damning",
+    "tag": "戒指",
+    "colors": "uniques"
+  },
+  {
+    "id": "Whisper of the Brotherhood",
+    "name": "意志低語",
+    "nameen": "Whisper of the Brotherhood",
+    "tag": "戒指",
+    "colors": "uniques"
+  },
+  {
+    "id": "Call of the Brotherhood",
+    "name": "意志呼喚",
+    "nameen": "Call of the Brotherhood",
+    "tag": "戒指",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Burrower",
+    "name": "掘地者",
+    "nameen": "The Burrower",
+    "tag": "戒指",
+    "colors": "uniques"
+  },
+  {
+    "id": "Ming's Heart",
+    "name": "明恩的慧心",
+    "nameen": "Ming's Heart",
+    "tag": "戒指",
+    "colors": "uniques"
+  },
+  {
+    "id": "Perandus Seal",
+    "name": "普蘭德斯之印",
+    "nameen": "Perandus Seal",
+    "tag": "戒指",
+    "colors": "uniques"
+  },
+  {
+    "id": "Polcirkeln",
+    "name": "極圈",
+    "nameen": "Polcirkeln",
+    "tag": "戒指",
+    "colors": "uniques"
+  },
+  {
+    "id": "Blistering Bond",
+    "name": "極熱護環",
+    "nameen": "Blistering Bond",
+    "tag": "戒指",
+    "colors": "uniques"
+  },
+  {
+    "id": "Evergrasping Ring",
+    "name": "永恆之握戒指",
+    "nameen": "Evergrasping Ring",
+    "tag": "戒指",
+    "colors": "uniques"
+  },
+  {
+    "id": "Seed of Cataclysm",
+    "name": "浩劫種子",
+    "nameen": "Seed of Cataclysm",
+    "tag": "戒指",
+    "colors": "uniques"
+  },
+  {
+    "id": "Levinstone",
+    "name": "浮游石",
+    "nameen": "Levinstone",
+    "tag": "戒指",
+    "colors": "uniques"
+  },
+  {
+    "id": "Bursting Decay",
+    "name": "爆發腐蝕",
+    "nameen": "Bursting Decay",
+    "tag": "戒指",
+    "colors": "uniques"
+  },
+  {
+    "id": "Prized Pain",
+    "name": "珍貴苦痛",
+    "nameen": "Prized Pain",
+    "tag": "戒指",
+    "colors": "uniques"
+  },
+  {
+    "id": "Glowswarm",
+    "name": "發光蟲群",
+    "nameen": "Glowswarm",
+    "tag": "戒指",
+    "colors": "uniques"
+  },
+  {
+    "id": "Gifts from Above",
+    "name": "神賜",
+    "nameen": "Gifts from Above",
+    "tag": "戒指",
+    "colors": "uniques"
+  },
+  {
+    "id": "Thief's Torment",
+    "name": "竊罪",
+    "nameen": "Thief's Torment",
+    "tag": "戒指",
+    "colors": "uniques"
+  },
+  {
+    "id": "Heartbound Loop",
+    "name": "結魂之環",
+    "nameen": "Heartbound Loop",
+    "tag": "戒指",
+    "colors": "uniques"
+  },
+  {
+    "id": "Sekhema's Resolve Fire",
+    "name": "絲克瑪的決意",
+    "nameen": "Sekhema's Resolve",
+    "tag": "戒指",
+    "colors": "uniques"
+  },
+  {
+    "id": "Sekhema's Resolve Cold",
+    "name": "絲克瑪的決意",
+    "nameen": "Sekhema's Resolve",
+    "tag": "戒指",
+    "colors": "uniques"
+  },
+  {
+    "id": "Sekhema's Resolve Lightning",
+    "name": "絲克瑪的決意",
+    "nameen": "Sekhema's Resolve",
+    "tag": "戒指",
+    "colors": "uniques"
+  },
+  {
+    "id": "Venopuncture",
+    "name": "脈絡針刺",
+    "nameen": "Venopuncture",
+    "tag": "戒指",
+    "colors": "uniques"
+  },
+  {
+    "id": "Snakepit",
+    "name": "蛇巢",
+    "nameen": "Snakepit",
+    "tag": "戒指",
+    "colors": "uniques"
+  },
+  {
+    "id": "Cracklecreep",
+    "name": "裂紋怪客",
+    "nameen": "Cracklecreep",
+    "tag": "戒指",
+    "colors": "uniques"
+  },
+  {
+    "id": "Vigilant View",
+    "name": "警戒之視",
+    "nameen": "Vigilant View",
+    "tag": "戒指",
+    "colors": "uniques"
+  },
+  {
+    "id": "Andvarius",
+    "name": "貪慾之記",
+    "nameen": "Andvarius",
+    "tag": "戒指",
+    "colors": "uniques"
+  },
+  {
+    "id": "Ventor's Gamble",
+    "name": "賭神芬多",
+    "nameen": "Ventor's Gamble",
+    "tag": "戒指",
+    "colors": "uniques"
+  },
+  {
+    "id": "Blackflame",
+    "name": "黯炎",
+    "nameen": "Blackflame",
+    "tag": "戒指",
+    "colors": "uniques"
+  },
+  {
+    "id": "Grip of Winter",
+    "name": "凜冬之握",
+    "nameen": "Grip of Winter",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "Northpaw",
+    "name": "北方之爪",
+    "nameen": "Northpaw",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Prisoner's Manacles",
+    "name": "囚犯的鐐銬",
+    "nameen": "The Prisoner's Manacles",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "Nightscale",
+    "name": "夜鱗",
+    "nameen": "Nightscale",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "Kitoko's Current",
+    "name": "奇多可之流",
+    "nameen": "Kitoko's Current",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "Aurseize",
+    "name": "富貴之運",
+    "nameen": "Aurseize",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "Empire's Grasp",
+    "name": "帝國之掌",
+    "nameen": "Empire's Grasp",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "Gravebind",
+    "name": "幽墓束縛",
+    "nameen": "Gravebind",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "Doedre's Tenure",
+    "name": "德瑞的精神手套",
+    "nameen": "Doedre's Tenure",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "Hateforge",
+    "name": "怨恨鍛造",
+    "nameen": "Hateforge",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "Shackles of the Wretched",
+    "name": "悲運之縛",
+    "nameen": "Shackles of the Wretched",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "Lochtonial Caress",
+    "name": "意識之緣",
+    "nameen": "Lochtonial Caress",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "Killjoy",
+    "name": "掃興之人",
+    "nameen": "Killjoy",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "Hand of Wisdom and Action",
+    "name": "智行之手",
+    "nameen": "Hand of Wisdom and Action",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "Treefingers",
+    "name": "樹木之指",
+    "nameen": "Treefingers",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "Death Articulated",
+    "name": "死亡之聲",
+    "nameen": "Death Articulated",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "Sine Aequo",
+    "name": "無與倫比",
+    "nameen": "Sine Aequo",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "Valako's Vice",
+    "name": "瓦拉庫之惡",
+    "nameen": "Valako's Vice",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "Painter's Servant",
+    "name": "畫家的侍從",
+    "nameen": "Painter's Servant",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "Plaguefinger",
+    "name": "瘟疫之指",
+    "nameen": "Plaguefinger",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "Blessed Bonds",
+    "name": "祝福之絆",
+    "nameen": "Blessed Bonds",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "Essentia Sanguis",
+    "name": "精華收割器",
+    "nameen": "Essentia Sanguis",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "Demon Stitcher",
+    "name": "縫魔",
+    "nameen": "Demon Stitcher",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "Deathblow",
+    "name": "致命一擊",
+    "nameen": "Deathblow",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "Aerisvane's Wings",
+    "name": "艾瑞斯凡恩之翼",
+    "nameen": "Aerisvane's Wings",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "Blueflame Bracers",
+    "name": "藍焰護腕",
+    "nameen": "Blueflame Bracers",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "Snakebite",
+    "name": "蝮吻",
+    "nameen": "Snakebite",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "Candlemaker",
+    "name": "製燭者",
+    "nameen": "Candlemaker",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "Idle Hands",
+    "name": "遊手好閒",
+    "nameen": "Idle Hands",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "Leopold's Applause",
+    "name": "里歐波德的掌聲",
+    "nameen": "Leopold's Applause",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "Atziri's Acuity",
+    "name": "阿茲里的捷思",
+    "nameen": "Atziri's Acuity",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "Jarngreipr",
+    "name": "雅恩格利佩爾",
+    "nameen": "Jarngreipr",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "Maligaro's Virtuosity",
+    "name": "馬雷葛蘿的血染手套",
+    "nameen": "Maligaro's Virtuosity",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "Dreadfist",
+    "name": "驚懼之拳",
+    "nameen": "Dreadfist",
+    "tag": "手套",
+    "colors": "uniques"
+  },
+  {
+    "id": "Font of Power",
+    "name": "力量水晶塔",
+    "nameen": "Font of Power",
+    "tag": "權杖",
+    "colors": "uniques"
+  },
+  {
+    "id": "Guiding Palm",
+    "name": "引導之掌",
+    "nameen": "Guiding Palm",
+    "tag": "權杖",
+    "colors": "uniques"
+  },
+  {
+    "id": "Guiding Palm",
+    "name": "引導之掌",
+    "nameen": "Guiding Palm",
+    "tag": "權杖",
+    "colors": "uniques"
+  },
+  {
+    "id": "Guiding Palm",
+    "name": "引導之掌",
+    "nameen": "Guiding Palm",
+    "tag": "權杖",
+    "colors": "uniques"
+  },
+  {
+    "id": "Sacred Flame",
+    "name": "神聖烈焰",
+    "nameen": "Sacred Flame",
+    "tag": "權杖",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Dark Defiler",
+    "name": "黑暗玷汙者",
+    "nameen": "The Dark Defiler",
+    "tag": "權杖",
+    "colors": "uniques"
+  },
+  {
+    "id": "Serpent's Lesson",
+    "name": "巨蛇教誨",
+    "nameen": "Serpent's Lesson",
+    "tag": "Focii",
+    "colors": "uniques"
+  },
+  {
+    "id": "Deathrattle",
+    "name": "死亡之聲",
+    "nameen": "Deathrattle",
+    "tag": "Focii",
+    "colors": "uniques"
+  },
+  {
+    "id": "Effigy of Cruelty",
+    "name": "殘酷塑像",
+    "nameen": "Effigy of Cruelty",
+    "tag": "Focii",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Eternal Spark",
+    "name": "永恆火花",
+    "nameen": "The Eternal Spark",
+    "tag": "Focii",
+    "colors": "uniques"
+  },
+  {
+    "id": "Rathpith Globe",
+    "name": "獻祭之心",
+    "nameen": "Rathpith Globe",
+    "tag": "Focii",
+    "colors": "uniques"
+  },
+  {
+    "id": "Threaded Light",
+    "name": "縫紉之光",
+    "nameen": "Threaded Light",
+    "tag": "Focii",
+    "colors": "uniques"
+  },
+  {
+    "id": "Carrion Call",
+    "name": "腐肉呼喚",
+    "nameen": "Carrion Call",
+    "tag": "Focii",
+    "colors": "uniques"
+  },
+  {
+    "id": "Apep's Supremacy",
+    "name": "艾普霸權",
+    "nameen": "Apep's Supremacy",
+    "tag": "Focii",
+    "colors": "uniques"
+  },
+  {
+    "id": "Cursecarver",
+    "name": "咒刻者",
+    "nameen": "Cursecarver",
+    "tag": "法杖",
+    "colors": "uniques"
+  },
+  {
+    "id": "Lifesprig",
+    "name": "生機之記",
+    "nameen": "Lifesprig",
+    "tag": "法杖",
+    "colors": "uniques"
+  },
+  {
+    "id": "Enezun's Charge",
+    "name": "艾尼尊的衝鋒",
+    "nameen": "Enezun's Charge",
+    "tag": "法杖",
+    "colors": "uniques"
+  },
+  {
+    "id": "Sanguine Diviner",
+    "name": "血色聖者",
+    "nameen": "Sanguine Diviner",
+    "tag": "法杖",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Wicked Quill",
+    "name": "邪惡羽毛",
+    "nameen": "The Wicked Quill",
+    "tag": "法杖",
+    "colors": "uniques"
+  },
+  {
+    "id": "Prism of Belief",
+    "name": "信仰棱鏡",
+    "nameen": "Prism of Belief",
+    "tag": "珠寶",
+    "colors": "uniques"
+  },
+  {
+    "id": "Against the Darkness",
+    "name": "力抗黑暗",
+    "nameen": "Against the Darkness",
+    "tag": "珠寶",
+    "colors": "uniques"
+  },
+  {
+    "id": "Controlled Metamorphosis",
+    "name": "受控的蛻變",
+    "nameen": "Controlled Metamorphosis",
+    "tag": "珠寶",
+    "colors": "uniques"
+  },
+  {
+    "id": "Megalomaniac",
+    "name": "妄想症",
+    "nameen": "Megalomaniac",
+    "tag": "珠寶",
+    "colors": "uniques"
+  },
+  {
+    "id": "Grand Spectrum",
+    "name": "巨光譜",
+    "nameen": "Grand Spectrum",
+    "tag": "珠寶",
+    "colors": "uniques"
+  },
+  {
+    "id": "Grand Spectrum",
+    "name": "巨光譜",
+    "nameen": "Grand Spectrum",
+    "tag": "珠寶",
+    "colors": "uniques"
+  },
+  {
+    "id": "Grand Spectrum",
+    "name": "巨光譜",
+    "nameen": "Grand Spectrum",
+    "tag": "珠寶",
+    "colors": "uniques"
+  },
+  {
+    "id": "From Nothing",
+    "name": "從無到有",
+    "nameen": "From Nothing",
+    "tag": "珠寶",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Adorned",
+    "name": "朝氣之靈",
+    "nameen": "The Adorned",
+    "tag": "珠寶",
+    "colors": "uniques"
+  },
+  {
+    "id": "Heroic Tragedy",
+    "name": "英雄悲劇",
+    "nameen": "Heroic Tragedy",
+    "tag": "珠寶",
+    "colors": "uniques"
+  },
+  {
+    "id": "Chernobog's Pillar",
+    "name": "五芒屏障",
+    "nameen": "Chernobog's Pillar",
+    "tag": "盾",
+    "colors": "uniques"
+  },
+  {
+    "id": "Prism Guardian",
+    "name": "元素的庇護",
+    "nameen": "Prism Guardian",
+    "tag": "盾",
+    "colors": "uniques"
+  },
+  {
+    "id": "Calgyra's Arc",
+    "name": "凱爾捷拉之弧",
+    "nameen": "Calgyra's Arc",
+    "tag": "盾",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Wailing Wall",
+    "name": "哀嚎之牆",
+    "nameen": "The Wailing Wall",
+    "tag": "盾",
+    "colors": "uniques"
+  },
+  {
+    "id": "Dunkelhalt",
+    "name": "唐克哈特",
+    "nameen": "Dunkelhalt",
+    "tag": "盾",
+    "colors": "uniques"
+  },
+  {
+    "id": "Nocturne",
+    "name": "夜曲",
+    "nameen": "Nocturne",
+    "tag": "盾",
+    "colors": "uniques"
+  },
+  {
+    "id": "Dionadair",
+    "name": "捍衛者",
+    "nameen": "Dionadair",
+    "tag": "盾",
+    "colors": "uniques"
+  },
+  {
+    "id": "Svalinn",
+    "name": "斯佛林",
+    "nameen": "Svalinn",
+    "tag": "盾",
+    "colors": "uniques"
+  },
+  {
+    "id": "Merit of Service",
+    "name": "服役功績",
+    "nameen": "Merit of Service",
+    "tag": "盾",
+    "colors": "uniques"
+  },
+  {
+    "id": "Doomgate",
+    "name": "末日之門",
+    "nameen": "Doomgate",
+    "tag": "盾",
+    "colors": "uniques"
+  },
+  {
+    "id": "Oaksworn",
+    "name": "橡誓者",
+    "nameen": "Oaksworn",
+    "tag": "盾",
+    "colors": "uniques"
+  },
+  {
+    "id": "Sunsplinter",
+    "name": "烈日碎片",
+    "nameen": "Sunsplinter",
+    "tag": "盾",
+    "colors": "uniques"
+  },
+  {
+    "id": "Rise of the Phoenix",
+    "name": "烈炎之翼",
+    "nameen": "Rise of the Phoenix",
+    "tag": "盾",
+    "colors": "uniques"
+  },
+  {
+    "id": "Wulfsbane",
+    "name": "狼之禍",
+    "nameen": "Wulfsbane",
+    "tag": "盾",
+    "colors": "uniques"
+  },
+  {
+    "id": "Lycosidae",
+    "name": "狼蛛",
+    "nameen": "Lycosidae",
+    "tag": "盾",
+    "colors": "uniques"
+  },
+  {
+    "id": "Mahuxotl's Machination",
+    "name": "瑪哈薩多的陰謀",
+    "nameen": "Mahuxotl's Machination",
+    "tag": "盾",
+    "colors": "uniques"
+  },
+  {
+    "id": "Alkem Eira",
+    "name": "神諭",
+    "nameen": "Alkem Eira",
+    "tag": "盾",
+    "colors": "uniques"
+  },
+  {
+    "id": "Redblade Banner",
+    "name": "紅刃旗幟",
+    "nameen": "Redblade Banner",
+    "tag": "盾",
+    "colors": "uniques"
+  },
+  {
+    "id": "Feathered Fortress",
+    "name": "羽毛堡壘",
+    "nameen": "Feathered Fortress",
+    "tag": "盾",
+    "colors": "uniques"
+  },
+  {
+    "id": "Saffell's Frame",
+    "name": "薩費爾的智慧",
+    "nameen": "Saffell's Frame",
+    "tag": "盾",
+    "colors": "uniques"
+  },
+  {
+    "id": "Window to Paradise",
+    "name": "通往天堂之窗",
+    "nameen": "Window to Paradise",
+    "tag": "盾",
+    "colors": "uniques"
+  },
+  {
+    "id": "Silverthorne",
+    "name": "銀白索恩",
+    "nameen": "Silverthorne",
+    "tag": "盾",
+    "colors": "uniques"
+  },
+  {
+    "id": "Crest of Ardura",
+    "name": "阿杜拉之冠",
+    "nameen": "Crest of Ardura",
+    "tag": "盾",
+    "colors": "uniques"
+  },
+  {
+    "id": "Arvil's Wheel",
+    "name": "阿瓦爾之輪",
+    "nameen": "Arvil's Wheel",
+    "tag": "盾",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Surrender",
+    "name": "降伏",
+    "nameen": "The Surrender",
+    "tag": "盾",
+    "colors": "uniques"
+  },
+  {
+    "id": "Rondel de Ezo",
+    "name": "隆德爾．德．艾佐",
+    "nameen": "Rondel de Ezo",
+    "tag": "盾",
+    "colors": "uniques"
+  },
+  {
+    "id": "Bloodbarrier",
+    "name": "鮮血屏障",
+    "nameen": "Bloodbarrier",
+    "tag": "盾",
+    "colors": "uniques"
+  },
+  {
+    "id": "Asphyxia's Wrath",
+    "name": "冰靈之吼",
+    "nameen": "Asphyxia's Wrath",
+    "tag": "箭袋",
+    "colors": "uniques"
+  },
+  {
+    "id": "Rearguard",
+    "name": "寒鋒之衛",
+    "nameen": "Rearguard",
+    "tag": "箭袋",
+    "colors": "uniques"
+  },
+  {
+    "id": "Beyond Reach",
+    "name": "無法到達",
+    "nameen": "Beyond Reach",
+    "tag": "箭袋",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Lethal Draw",
+    "name": "致命抽取",
+    "nameen": "The Lethal Draw",
+    "tag": "箭袋",
+    "colors": "uniques"
+  },
+  {
+    "id": "Blackgleam",
+    "name": "黑炎之芒",
+    "nameen": "Blackgleam",
+    "tag": "箭袋",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Sentry",
+    "name": "哨兵",
+    "nameen": "The Sentry",
+    "tag": "細杖",
+    "colors": "uniques"
+  },
+  {
+    "id": "Pillar of the Caged God",
+    "name": "囚神杵",
+    "nameen": "Pillar of the Caged God",
+    "tag": "細杖",
+    "colors": "uniques"
+  },
+  {
+    "id": "Collapsing Horizon",
+    "name": "崩塌的地平線",
+    "nameen": "Collapsing Horizon",
+    "tag": "細杖",
+    "colors": "uniques"
+  },
+  {
+    "id": "Matsya",
+    "name": "摩蹉",
+    "nameen": "Matsya",
+    "tag": "細杖",
+    "colors": "uniques"
+  },
+  {
+    "id": "Nazir's Judgement",
+    "name": "納齊爾的審判",
+    "nameen": "Nazir's Judgement",
+    "tag": "細杖",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Blood Thorn",
+    "name": "血棘",
+    "nameen": "The Blood Thorn",
+    "tag": "細杖",
+    "colors": "uniques"
+  },
+  {
+    "id": "Morior Invictus",
+    "name": "不敗亡者",
+    "nameen": "Morior Invictus",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Necromantle",
+    "name": "亡者披肩",
+    "nameen": "Necromantle",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Yriel's Fostering",
+    "name": "伊瑞的栽培",
+    "nameen": "Yriel's Fostering",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Vis Mortis",
+    "name": "兀鳴",
+    "nameen": "Vis Mortis",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Icetomb",
+    "name": "冰息",
+    "nameen": "Icetomb",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Bramblejack",
+    "name": "刺棘寶甲",
+    "nameen": "Bramblejack",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Pragmatism",
+    "name": "務實主義",
+    "nameen": "Pragmatism",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Edyrn's Tusks",
+    "name": "埃狄恩的曲牙",
+    "nameen": "Edyrn's Tusks",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Apron of Emiran",
+    "name": "埃米蘭之裙",
+    "nameen": "Apron of Emiran",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Brass Dome",
+    "name": "堅銅戰罩",
+    "nameen": "The Brass Dome",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Dustbloom",
+    "name": "塵土之花",
+    "nameen": "Dustbloom",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Mutable Star",
+    "name": "多變之星",
+    "nameen": "The Mutable Star",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Doryani's Prototype",
+    "name": "多里亞尼之型",
+    "nameen": "Doryani's Prototype",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Husk of Dreams",
+    "name": "夢境軀殼",
+    "nameen": "Husk of Dreams",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Quatl's Molt",
+    "name": "夸特之帶",
+    "nameen": "Quatl's Molt",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Widow's Reign",
+    "name": "寡婦統治",
+    "nameen": "Widow's Reign",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Kaom's Heart",
+    "name": "岡姆的壯志",
+    "nameen": "Kaom's Heart",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Belly of the Beast",
+    "name": "巨獸之腹",
+    "nameen": "Belly of the Beast",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Gloomform",
+    "name": "幽暗之衣",
+    "nameen": "Gloomform",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Skin of the Loyal",
+    "name": "忠誠之膚",
+    "nameen": "Skin of the Loyal",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Ashrend",
+    "name": "拂燼",
+    "nameen": "Ashrend",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Silks of Veneration",
+    "name": "敬重絲綢",
+    "nameen": "Silks of Veneration",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Temporalis",
+    "name": "時空之物",
+    "nameen": "Temporalis",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Enfolding Dawn",
+    "name": "晨曦之擁",
+    "nameen": "Enfolding Dawn",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Gloamgown",
+    "name": "暮光長袍",
+    "nameen": "Gloamgown",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Queen of the Forest",
+    "name": "森林之后",
+    "nameen": "Queen of the Forest",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Fallen Formation",
+    "name": "殞落之形",
+    "nameen": "The Fallen Formation",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Titanrot Cataphract",
+    "name": "泰坦腐化重騎兵",
+    "nameen": "Titanrot Cataphract",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Wandering Reliquary",
+    "name": "流浪寶庫",
+    "nameen": "Wandering Reliquary",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Waveshaper",
+    "name": "浪湧塑形器",
+    "nameen": "Waveshaper",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Zerphi's Serape",
+    "name": "澤菲披肩",
+    "nameen": "Zerphi's Serape",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Coming Calamity",
+    "name": "災難臨頭",
+    "nameen": "The Coming Calamity",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Cloak of Flame",
+    "name": "烈炎之袍",
+    "nameen": "Cloak of Flame",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Immortan",
+    "name": "無畏戰士",
+    "nameen": "The Road Warrior",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Tabula Rasa",
+    "name": "無盡之衣",
+    "nameen": "Tabula Rasa",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Tetzlapokal's Desire",
+    "name": "特沙波卡爾之慾",
+    "nameen": "Tetzlapokal's Desire",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Foxshade",
+    "name": "狐毛鎧",
+    "nameen": "Foxshade",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Rat Cage",
+    "name": "疫鼠囚籠",
+    "nameen": "The Rat Cage",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Kingsguard",
+    "name": "皇家衛甲",
+    "nameen": "Kingsguard",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Prayers for Rain",
+    "name": "祈雨禱言",
+    "nameen": "Prayers for Rain",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Soul Mantle",
+    "name": "祖靈之約",
+    "nameen": "Soul Mantle",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Sacrosanctum",
+    "name": "神聖殿堂",
+    "nameen": "Sacrosanctum",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Voll's Protector",
+    "name": "福爾的戰鎧",
+    "nameen": "Voll's Protector",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Redflare Conduit",
+    "name": "紅焰導體",
+    "nameen": "Redflare Conduit",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Sands of Silk",
+    "name": "絲綢之沙",
+    "nameen": "Sands of Silk",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Couture of Crimson",
+    "name": "緋紅訂製服",
+    "nameen": "Couture of Crimson",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Perfidy",
+    "name": "背信忘義",
+    "nameen": "Perfidy",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Coat of Red",
+    "name": "腥紅外衣",
+    "nameen": "Coat of Red",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Dancing Mirage",
+    "name": "舞動幻影",
+    "nameen": "The Dancing Mirage",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Bitterbloom",
+    "name": "苦心花",
+    "nameen": "Bitterbloom",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Pariah's Embrace",
+    "name": "草民之擁",
+    "nameen": "Pariah's Embrace",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Briskwrap",
+    "name": "荒途",
+    "nameen": "Briskwrap",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Covenant",
+    "name": "血誓",
+    "nameen": "The Covenant",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Cloak of Defiance",
+    "name": "衛道之袍",
+    "nameen": "Cloak of Defiance",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Hyrri's Ire",
+    "name": "西里的戰衣",
+    "nameen": "Hyrri's Ire",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Greed's Embrace",
+    "name": "貪婪之擁",
+    "nameen": "Greed's Embrace",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Barrow Dweller",
+    "name": "遺塚居民",
+    "nameen": "The Barrow Dweller",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Sierran Inheritance",
+    "name": "錫耶拉的遺產",
+    "nameen": "Sierran Inheritance",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Irongrasp",
+    "name": "鐵握",
+    "nameen": "Irongrasp",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Bristleboar",
+    "name": "鬃豬",
+    "nameen": "Bristleboar",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Ghostwrithe",
+    "name": "鬧鬼",
+    "nameen": "Ghostwrithe",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Black Doubt",
+    "name": "黑色之疑",
+    "nameen": "The Black Doubt",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Blackbraid",
+    "name": "黑辮",
+    "nameen": "Blackbraid",
+    "tag": "胸甲",
+    "colors": "uniques"
+  },
+  {
+    "id": "Midnight Braid",
+    "name": "午夜護鏈",
+    "nameen": "Midnight Braid",
+    "tag": "腰帶",
+    "colors": "uniques"
+  },
+  {
+    "id": "Infernoclasp",
+    "name": "地獄之握",
+    "nameen": "Infernoclasp",
+    "tag": "腰帶",
+    "colors": "uniques"
+  },
+  {
+    "id": "Birthright Buckle",
+    "name": "天生權利扣環",
+    "nameen": "Birthright Buckle",
+    "tag": "腰帶",
+    "colors": "uniques"
+  },
+  {
+    "id": "Bijouborne",
+    "name": "寶石之源",
+    "nameen": "Bijouborne",
+    "tag": "腰帶",
+    "colors": "uniques"
+  },
+  {
+    "id": "Brynabas",
+    "name": "布萊納巴斯",
+    "nameen": "Brynabas",
+    "tag": "腰帶",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Gnashing Sash",
+    "name": "憤恨飾帶",
+    "nameen": "The Gnashing Sash",
+    "tag": "腰帶",
+    "colors": "uniques"
+  },
+  {
+    "id": "Coward's Legacy",
+    "name": "懦夫的遺產",
+    "nameen": "Coward's Legacy",
+    "tag": "腰帶",
+    "colors": "uniques"
+  },
+  {
+    "id": "Meginord's Girdle",
+    "name": "梅吉諾德的力量泉源",
+    "nameen": "Meginord's Girdle",
+    "tag": "腰帶",
+    "colors": "uniques"
+  },
+  {
+    "id": "Zerphi's Genesis",
+    "name": "澤菲的創世紀",
+    "nameen": "Zerphi's Genesis",
+    "tag": "腰帶",
+    "colors": "uniques"
+  },
+  {
+    "id": "Ingenuity",
+    "name": "獨創",
+    "nameen": "Ingenuity",
+    "tag": "腰帶",
+    "colors": "uniques"
+  },
+  {
+    "id": "Headhunter",
+    "name": "獵首",
+    "nameen": "Headhunter",
+    "tag": "腰帶",
+    "colors": "uniques"
+  },
+  {
+    "id": "Ryslatha's Coil",
+    "name": "瑞斯拉薩之纏",
+    "nameen": "Ryslatha's Coil",
+    "tag": "腰帶",
+    "colors": "uniques"
+  },
+  {
+    "id": "Waistgate",
+    "name": "腰閥",
+    "nameen": "Waistgate",
+    "tag": "腰帶",
+    "colors": "uniques"
+  },
+  {
+    "id": "Keelhaul",
+    "name": "船拖刑",
+    "nameen": "Keelhaul",
+    "tag": "腰帶",
+    "colors": "uniques"
+  },
+  {
+    "id": "Shavronne's Satchel",
+    "name": "薛朗的背包",
+    "nameen": "Shavronne's Satchel",
+    "tag": "腰帶",
+    "colors": "uniques"
+  },
+  {
+    "id": "Goregirdle",
+    "name": "血肉束腰",
+    "nameen": "Goregirdle",
+    "tag": "腰帶",
+    "colors": "uniques"
+  },
+  {
+    "id": "Silverpoint",
+    "name": "銀點",
+    "nameen": "Silverpoint",
+    "tag": "腰帶",
+    "colors": "uniques"
+  },
+  {
+    "id": "Soul Tether",
+    "name": "靈魂束縛",
+    "nameen": "Soul Tether",
+    "tag": "腰帶",
+    "colors": "uniques"
+  },
+  {
+    "id": "Olroth's Resolve",
+    "name": "奧爾羅斯的決心",
+    "nameen": "Olroth's Resolve",
+    "tag": "魔力藥劑",
+    "colors": "uniques"
+  },
+  {
+    "id": "Melting Maelstrom",
+    "name": "融解漩渦",
+    "nameen": "Melting Maelstrom",
+    "tag": "魔力藥劑",
+    "colors": "uniques"
+  },
+  {
+    "id": "Rite of Passage",
+    "name": "儀式通道",
+    "nameen": "Rite of Passage",
+    "tag": "護符",
+    "colors": "uniques"
+  },
+  {
+    "id": "Ngamahu's Chosen",
+    "name": "努葛瑪呼之選",
+    "nameen": "Ngamahu's Chosen",
+    "tag": "護符",
+    "colors": "uniques"
+  },
+  {
+    "id": "Sanguis Heroum",
+    "name": "嗜血英雄",
+    "nameen": "Sanguis Heroum",
+    "tag": "護符",
+    "colors": "uniques"
+  },
+  {
+    "id": "Breath of the Mountains",
+    "name": "山地之息",
+    "nameen": "Breath of the Mountains",
+    "tag": "護符",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Fall of the Axe",
+    "name": "斧頭之隕",
+    "nameen": "The Fall of the Axe",
+    "tag": "護符",
+    "colors": "uniques"
+  },
+  {
+    "id": "For Utopia",
+    "name": "為了烏托邦",
+    "nameen": "For Utopia",
+    "tag": "護符",
+    "colors": "uniques"
+  },
+  {
+    "id": "Valako's Roar",
+    "name": "瓦拉庫之吼",
+    "nameen": "Valako's Roar",
+    "tag": "護符",
+    "colors": "uniques"
+  },
+  {
+    "id": "Arakaali's Gift",
+    "name": "艾爾卡莉的贈禮",
+    "nameen": "Arakaali's Gift",
+    "tag": "護符",
+    "colors": "uniques"
+  },
+  {
+    "id": "Nascent Hope",
+    "name": "萌芽希望",
+    "nameen": "Nascent Hope",
+    "tag": "護符",
+    "colors": "uniques"
+  },
+  {
+    "id": "Beira's Anguish",
+    "name": "貝伊拉的悲痛",
+    "nameen": "Beira's Anguish",
+    "tag": "護符",
+    "colors": "uniques"
+  },
+  {
+    "id": "Forsaken Bangle",
+    "name": "遺落的手鐲",
+    "nameen": "Forsaken Bangle",
+    "tag": "護符",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Black Cat",
+    "name": "黑貓",
+    "nameen": "The Black Cat",
+    "tag": "護符",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Hammer of Faith",
+    "name": "信仰之錘",
+    "nameen": "The Hammer of Faith",
+    "tag": "單手錘",
+    "colors": "uniques"
+  },
+  {
+    "id": "Trenchtimbre",
+    "name": "壕溝之音",
+    "nameen": "Trenchtimbre",
+    "tag": "單手錘",
+    "colors": "uniques"
+  },
+  {
+    "id": "Wylund's Stake",
+    "name": "威倫德的木樁",
+    "nameen": "Wylund's Stake",
+    "tag": "單手錘",
+    "colors": "uniques"
+  },
+  {
+    "id": "Trephina",
+    "name": "崔非那",
+    "nameen": "Trephina",
+    "tag": "單手錘",
+    "colors": "uniques"
+  },
+  {
+    "id": "Brynhand's Mark",
+    "name": "布林漢的印記",
+    "nameen": "Brynhand's Mark",
+    "tag": "單手錘",
+    "colors": "uniques"
+  },
+  {
+    "id": "Chober Chaber",
+    "name": "忠誠之錘",
+    "nameen": "Chober Chaber",
+    "tag": "單手錘",
+    "colors": "uniques"
+  },
+  {
+    "id": "Olrovasara",
+    "name": "歐洛瓦沙拉",
+    "nameen": "Olrovasara",
+    "tag": "單手錘",
+    "colors": "uniques"
+  },
+  {
+    "id": "Mjölner",
+    "name": "沉默之雷",
+    "nameen": "Mjölner",
+    "tag": "單手錘",
+    "colors": "uniques"
+  },
+  {
+    "id": "Shyaba",
+    "name": "沙阿巴",
+    "nameen": "Shyaba",
+    "tag": "單手錘",
+    "colors": "uniques"
+  },
+  {
+    "id": "Hoghunt",
+    "name": "獵豬",
+    "nameen": "Hoghunt",
+    "tag": "單手錘",
+    "colors": "uniques"
+  },
+  {
+    "id": "Tidebreaker",
+    "name": "破浪者",
+    "nameen": "Tidebreaker",
+    "tag": "單手錘",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Empty Roar",
+    "name": "空洞怒吼",
+    "nameen": "The Empty Roar",
+    "tag": "單手錘",
+    "colors": "uniques"
+  },
+  {
+    "id": "Brain Rattler",
+    "name": "腦亂者",
+    "nameen": "Brain Rattler",
+    "tag": "單手錘",
+    "colors": "uniques"
+  },
+  {
+    "id": "Seeing Stars",
+    "name": "見證群星",
+    "nameen": "Seeing Stars",
+    "tag": "單手錘",
+    "colors": "uniques"
+  },
+  {
+    "id": "Quecholli",
+    "name": "重擊之錘",
+    "nameen": "Quecholli",
+    "tag": "單手錘",
+    "colors": "uniques"
+  },
+  {
+    "id": "Nebuloch",
+    "name": "銀河眾星",
+    "nameen": "Nebuloch",
+    "tag": "單手錘",
+    "colors": "uniques"
+  },
+  {
+    "id": "Sculpted Suffering",
+    "name": "雕刻苦難",
+    "nameen": "Sculpted Suffering",
+    "tag": "單手錘",
+    "colors": "uniques"
+  },
+  {
+    "id": "Hrimnor's Hymn",
+    "name": "雷姆諾的奪命樂具",
+    "nameen": "Hrimnor's Hymn",
+    "tag": "單手錘",
+    "colors": "uniques"
+  },
+  {
+    "id": "Frostbreath",
+    "name": "霜息",
+    "nameen": "Frostbreath",
+    "tag": "單手錘",
+    "colors": "uniques"
+  },
+  {
+    "id": "Earthbound",
+    "name": "地縛者",
+    "nameen": "Earthbound",
+    "tag": "長杖",
+    "colors": "uniques"
+  },
+  {
+    "id": "Taryn's Shiver",
+    "name": "塔林的顫慄之語",
+    "nameen": "Taryn's Shiver",
+    "tag": "長杖",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Burden of Shadows",
+    "name": "暗影重擔",
+    "nameen": "The Burden of Shadows",
+    "tag": "長杖",
+    "colors": "uniques"
+  },
+  {
+    "id": "Dusk Vigil",
+    "name": "暗暮守夜",
+    "nameen": "Dusk Vigil",
+    "tag": "長杖",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Searing Touch",
+    "name": "熾炎之使",
+    "nameen": "The Searing Touch",
+    "tag": "長杖",
+    "colors": "uniques"
+  },
+  {
+    "id": "Sire of Shards",
+    "name": "破碎傳承者",
+    "nameen": "Sire of Shards",
+    "tag": "長杖",
+    "colors": "uniques"
+  },
+  {
+    "id": "Skysliver",
+    "name": "天銀",
+    "nameen": "Skysliver",
+    "tag": "長鋒",
+    "colors": "uniques"
+  },
+  {
+    "id": "Daevata's Wind",
+    "name": "德瓦塔之風",
+    "nameen": "Daevata's Wind",
+    "tag": "長鋒",
+    "colors": "uniques"
+  },
+  {
+    "id": "Spire of Ire",
+    "name": "怒火之塔",
+    "nameen": "Spire of Ire",
+    "tag": "長鋒",
+    "colors": "uniques"
+  },
+  {
+    "id": "Tyranny's Grip",
+    "name": "暴政之握",
+    "nameen": "Tyranny's Grip",
+    "tag": "長鋒",
+    "colors": "uniques"
+  },
+  {
+    "id": "Tangletongue",
+    "name": "縛舌",
+    "nameen": "Tangletongue",
+    "tag": "長鋒",
+    "colors": "uniques"
+  },
+  {
+    "id": "Splinter of Loratta",
+    "name": "蘿拉塔裂片",
+    "nameen": "Splinter of Loratta",
+    "tag": "長鋒",
+    "colors": "uniques"
+  },
+  {
+    "id": "Saitha's Spear",
+    "name": "賽塔的長鋒",
+    "nameen": "Saitha's Spear",
+    "tag": "長鋒",
+    "colors": "uniques"
+  },
+  {
+    "id": "Chainsting",
+    "name": "鏈鎖之刺",
+    "nameen": "Chainsting",
+    "tag": "長鋒",
+    "colors": "uniques"
+  },
+  {
+    "id": "Powertread",
+    "name": "動力圖樣",
+    "nameen": "Powertread",
+    "tag": "鞋子",
+    "colors": "uniques"
+  },
+  {
+    "id": "Corpsewade",
+    "name": "屍骨之靴",
+    "nameen": "Corpsewade",
+    "tag": "鞋子",
+    "colors": "uniques"
+  },
+  {
+    "id": "Legionstride",
+    "name": "帝國之靴",
+    "nameen": "Legionstride",
+    "tag": "鞋子",
+    "colors": "uniques"
+  },
+  {
+    "id": "Windscream",
+    "name": "惡風足跡",
+    "nameen": "Windscream",
+    "tag": "鞋子",
+    "colors": "uniques"
+  },
+  {
+    "id": "Birth of Fury",
+    "name": "憤怒的誕生",
+    "nameen": "Birth of Fury",
+    "tag": "鞋子",
+    "colors": "uniques"
+  },
+  {
+    "id": "Darkray Vectors",
+    "name": "暗雷",
+    "nameen": "Darkray Vectors",
+    "tag": "鞋子",
+    "colors": "uniques"
+  },
+  {
+    "id": "Obern's Bastion",
+    "name": "歐伯恩的壁壘",
+    "nameen": "Obern's Bastion",
+    "tag": "鞋子",
+    "colors": "uniques"
+  },
+  {
+    "id": "Ab Aeterno",
+    "name": "源於永恆",
+    "nameen": "Ab Aeterno",
+    "tag": "鞋子",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Knight-errant",
+    "name": "漂泊騎士",
+    "nameen": "The Knight-errant",
+    "tag": "鞋子",
+    "colors": "uniques"
+  },
+  {
+    "id": "Bones of Ullr",
+    "name": "烏勒爾之骨",
+    "nameen": "Bones of Ullr",
+    "tag": "鞋子",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Infinite Pursuit",
+    "name": "無盡之距",
+    "nameen": "The Infinite Pursuit",
+    "tag": "鞋子",
+    "colors": "uniques"
+  },
+  {
+    "id": "Beetlebite",
+    "name": "甲蟲噬咬",
+    "nameen": "Beetlebite",
+    "tag": "鞋子",
+    "colors": "uniques"
+  },
+  {
+    "id": "Bushwhack",
+    "name": "突襲",
+    "nameen": "Bushwhack",
+    "tag": "鞋子",
+    "colors": "uniques"
+  },
+  {
+    "id": "Wanderlust",
+    "name": "苦行之履",
+    "nameen": "Wanderlust",
+    "tag": "鞋子",
+    "colors": "uniques"
+  },
+  {
+    "id": "Briarpatch",
+    "name": "薔薇眼罩",
+    "nameen": "Briarpatch",
+    "tag": "鞋子",
+    "colors": "uniques"
+  },
+  {
+    "id": "Wake of Destruction",
+    "name": "覆滅之兆",
+    "nameen": "Wake of Destruction",
+    "tag": "鞋子",
+    "colors": "uniques"
+  },
+  {
+    "id": "Gamblesprint",
+    "name": "豪賭",
+    "nameen": "Gamblesprint",
+    "tag": "鞋子",
+    "colors": "uniques"
+  },
+  {
+    "id": "Trampletoe",
+    "name": "踐踏之鞋",
+    "nameen": "Trampletoe",
+    "tag": "鞋子",
+    "colors": "uniques"
+  },
+  {
+    "id": "Wondertrap",
+    "name": "迴光之跡",
+    "nameen": "Wondertrap",
+    "tag": "鞋子",
+    "colors": "uniques"
+  },
+  {
+    "id": "Luminous Pace",
+    "name": "閃爍步伐",
+    "nameen": "Luminous Pace",
+    "tag": "鞋子",
+    "colors": "uniques"
+  },
+  {
+    "id": "Thunderstep",
+    "name": "雷霆步伐",
+    "nameen": "Thunderstep",
+    "tag": "鞋子",
+    "colors": "uniques"
+  },
+  {
+    "id": "Ghostmarch",
+    "name": "鬼行",
+    "nameen": "Ghostmarch",
+    "tag": "鞋子",
+    "colors": "uniques"
+  },
+  {
+    "id": "Fixation of Yix",
+    "name": "伊克斯的依戀",
+    "nameen": "Fixation of Yix",
+    "tag": "項鍊",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Anvil",
+    "name": "信念之砧",
+    "nameen": "The Anvil",
+    "tag": "項鍊",
+    "colors": "uniques"
+  },
+  {
+    "id": "Astramentis",
+    "name": "均衡之符",
+    "nameen": "Astramentis",
+    "tag": "項鍊",
+    "colors": "uniques"
+  },
+  {
+    "id": "Eye of Chayula",
+    "name": "夏烏拉之眼",
+    "nameen": "Eye of Chayula",
+    "tag": "項鍊",
+    "colors": "uniques"
+  },
+  {
+    "id": "Idol of Uldurn",
+    "name": "奧敦塑像",
+    "nameen": "Idol of Uldurn",
+    "tag": "項鍊",
+    "colors": "uniques"
+  },
+  {
+    "id": "Carnage Heart",
+    "name": "屠戮之心",
+    "nameen": "Carnage Heart",
+    "tag": "項鍊",
+    "colors": "uniques"
+  },
+  {
+    "id": "Revered Resin",
+    "name": "崇敬樹脂",
+    "nameen": "Revered Resin",
+    "tag": "項鍊",
+    "colors": "uniques"
+  },
+  {
+    "id": "Rondel of Fragility",
+    "name": "弱化圓飾",
+    "nameen": "Rondel of Fragility",
+    "tag": "項鍊",
+    "colors": "uniques"
+  },
+  {
+    "id": "Ungil's Harmony",
+    "name": "恩吉爾的和諧",
+    "nameen": "Ungil's Harmony",
+    "tag": "項鍊",
+    "colors": "uniques"
+  },
+  {
+    "id": "Stone of Lazhwar",
+    "name": "拉茲瓦的靈石",
+    "nameen": "Stone of Lazhwar",
+    "tag": "項鍊",
+    "colors": "uniques"
+  },
+  {
+    "id": "Defiance of Destiny",
+    "name": "拒絕命運",
+    "nameen": "Defiance of Destiny",
+    "tag": "項鍊",
+    "colors": "uniques"
+  },
+  {
+    "id": "Strugglescream",
+    "name": "掙扎吶喊",
+    "nameen": "Strugglescream",
+    "tag": "項鍊",
+    "colors": "uniques"
+  },
+  {
+    "id": "Choir of the Storm",
+    "name": "暴風之語",
+    "nameen": "Choir of the Storm",
+    "tag": "項鍊",
+    "colors": "uniques"
+  },
+  {
+    "id": "Serpent's Egg",
+    "name": "毒蛇之卵",
+    "nameen": "Serpent's Egg",
+    "tag": "項鍊",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Everlasting Gaze",
+    "name": "永恆凝視",
+    "nameen": "The Everlasting Gaze",
+    "tag": "項鍊",
+    "colors": "uniques"
+  },
+  {
+    "id": "Fireflower",
+    "name": "火焰之花",
+    "nameen": "Fireflower",
+    "tag": "項鍊",
+    "colors": "uniques"
+  },
+  {
+    "id": "Igniferis",
+    "name": "烈焰之擊",
+    "nameen": "Igniferis",
+    "tag": "項鍊",
+    "colors": "uniques"
+  },
+  {
+    "id": "Yoke of Suffering",
+    "name": "磨難之軛",
+    "nameen": "Yoke of Suffering",
+    "tag": "項鍊",
+    "colors": "uniques"
+  },
+  {
+    "id": "Surefooted Sigil",
+    "name": "穩健印記",
+    "nameen": "Surefooted Sigil",
+    "tag": "項鍊",
+    "colors": "uniques"
+  },
+  {
+    "id": "Xoph's Blood",
+    "name": "索伏之血",
+    "nameen": "Xoph's Blood",
+    "tag": "項鍊",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Pandemonius",
+    "name": "群魔殿",
+    "nameen": "The Pandemonius",
+    "tag": "項鍊",
+    "colors": "uniques"
+  },
+  {
+    "id": "Ligurium Talisman",
+    "name": "豐金巫符",
+    "nameen": "Ligurium Talisman",
+    "tag": "項鍊",
+    "colors": "uniques"
+  },
+  {
+    "id": "Beacon of Azis",
+    "name": "阿基斯的信標",
+    "nameen": "Beacon of Azis",
+    "tag": "項鍊",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Three Dragons",
+    "name": "三龍戰紀",
+    "nameen": "The Three Dragons",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Leer Cast",
+    "name": "共鳴之面",
+    "nameen": "Leer Cast",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Wings of Caelyn",
+    "name": "凱林之翼",
+    "nameen": "Wings of Caelyn",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Crown of Thorns",
+    "name": "刺棘之冠",
+    "nameen": "Crown of Thorns",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Assailum",
+    "name": "刺殺",
+    "nameen": "Assailum",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Crown of the Victor",
+    "name": "勝者之冠",
+    "nameen": "Crown of the Victor",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Mask of the Sanguimancer",
+    "name": "占血之面",
+    "nameen": "Mask of the Sanguimancer",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Innsmouth",
+    "name": "印斯茅斯",
+    "nameen": "Innsmouth",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Devouring Diadem",
+    "name": "吞噬之冠",
+    "nameen": "The Devouring Diadem",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Solus Ipse",
+    "name": "唯我論",
+    "nameen": "Solus Ipse",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Deidbell",
+    "name": "喪鐘",
+    "nameen": "Deidbell",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Indigon",
+    "name": "地印之環",
+    "nameen": "Indigon",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Erian's Cobble",
+    "name": "埃里安的鵝卵石",
+    "nameen": "Erian's Cobble",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Veil of the Night",
+    "name": "夜幕",
+    "nameen": "Veil of the Night",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Heatshiver",
+    "name": "寒焰",
+    "nameen": "Heatshiver",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Smiling Knight",
+    "name": "微笑騎士",
+    "nameen": "The Smiling Knight",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Vile Knight",
+    "name": "惡劣騎士",
+    "nameen": "The Vile Knight",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Mask of the Stitched Demon",
+    "name": "惡縫之面",
+    "nameen": "Mask of the Stitched Demon",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Elevore",
+    "name": "愛勒弗",
+    "nameen": "Elevore",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Starkonja's Head",
+    "name": "斯塔空加之首",
+    "nameen": "Starkonja's Head",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Alpha's Howl",
+    "name": "極地之嗥",
+    "nameen": "Alpha's Howl",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Crown of the Pale King",
+    "name": "殞皇之冠",
+    "nameen": "Crown of the Pale King",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Sandstorm Visage",
+    "name": "沙瀑面紗",
+    "nameen": "Sandstorm Visage",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Deepest Tower",
+    "name": "深邃尖塔",
+    "nameen": "The Deepest Tower",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Glimpse of Chaos",
+    "name": "混沌一瞥",
+    "nameen": "Glimpse of Chaos",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Black Insignia",
+    "name": "漆黑徽章",
+    "nameen": "The Black Insignia",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Greymake",
+    "name": "灰製",
+    "nameen": "Greymake",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Bringer of Rain",
+    "name": "祭禮之雨",
+    "nameen": "The Bringer of Rain",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Forbidden Gaze",
+    "name": "禁忌凝視",
+    "nameen": "Forbidden Gaze",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Scold's Bridle",
+    "name": "禁語",
+    "nameen": "Scold's Bridle",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Cornathaum",
+    "name": "科那索姆",
+    "nameen": "Cornathaum",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Myris Uxor",
+    "name": "米立斯之妻",
+    "nameen": "Myris Uxor",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Corona of the Red Sun",
+    "name": "紅日之冕",
+    "nameen": "Corona of the Red Sun",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Radiant Grief",
+    "name": "聖光哀痛",
+    "nameen": "Radiant Grief",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Hollow Mask",
+    "name": "聖潔面具",
+    "nameen": "The Hollow Mask",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Ezomyte Peak",
+    "name": "艾茲麥的榮光",
+    "nameen": "Ezomyte Peak",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Visage of Ayah",
+    "name": "艾雅面紗",
+    "nameen": "Visage of Ayah",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Blood Price",
+    "name": "血償",
+    "nameen": "Blood Price",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "The Vertex",
+    "name": "謎容",
+    "nameen": "The Vertex",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Horns of Bynden",
+    "name": "賓登之角",
+    "nameen": "Horns of Bynden",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Crown of Eyes",
+    "name": "邪眼之冠",
+    "nameen": "Crown of Eyes",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Goldrim",
+    "name": "金縷帽",
+    "nameen": "Goldrim",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Bronzebeard",
+    "name": "銅鬚",
+    "nameen": "Bronzebeard",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Ironride",
+    "name": "鐵騎",
+    "nameen": "Ironride",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Atsak's Sight",
+    "name": "阿札克之瞳",
+    "nameen": "Atsak's Sight",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Atziri's Disdain",
+    "name": "阿茲里的蔑視",
+    "nameen": "Atziri's Disdain",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Keeper of the Arc",
+    "name": "電弧守護者",
+    "nameen": "Keeper of the Arc",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Thrillsteel",
+    "name": "顫慄之鋼",
+    "nameen": "Thrillsteel",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Black Sun Crest",
+    "name": "黑陽之冠",
+    "nameen": "Black Sun Crest",
+    "tag": "頭部",
+    "colors": "uniques"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemAlchemistsBoon",
+    "name": "煉金師恩惠",
+    "nameen": "Alchemist's Boon",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemArchmage",
+    "name": "大法師",
+    "nameen": "Archmage",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemArmourPiercingRounds",
+    "name": "穿甲彈藥",
+    "nameen": "Armour Piercing Rounds",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemAscendancyAncestralSpirits",
+    "name": "先祖之魂",
+    "nameen": "Ancestral Spirits",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemAscendancyBleedingConcoction",
+    "name": "流血混合物",
+    "nameen": "Bleeding Concoction",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemAscendancyBloodBoil",
+    "name": "鮮血沸騰",
+    "nameen": "Blood Boil",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemAscendancyDemonForm",
+    "name": "惡魔變身",
+    "nameen": "Demon Form",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemAscendancyElementalExpression",
+    "name": "元素表現",
+    "nameen": "Elemental Expression",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemAscendancyElementalStorm",
+    "name": "元素風暴",
+    "nameen": "Elemental Storm",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemAscendancyEncasedInJade",
+    "name": "包覆於翠玉中",
+    "nameen": "Encase in Jade",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemAscendancyExplosiveConcoction",
+    "name": "爆裂物",
+    "nameen": "Explosive Concoction",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemAscendancyFireSpellOnHit",
+    "name": "擊中時火焰法術",
+    "nameen": "Fire Spell on Hit",
+    "tag": "精魂宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemAscendancyFulminatingConcoction",
+    "name": "烈性混合物",
+    "nameen": "Fulminating Concoction",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemAscendancyInfuseWeapon",
+    "name": "灌注武器",
+    "nameen": "Infuse Weapon",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemAscendancyIntoTheBreach",
+    "name": "遁入裂痕",
+    "nameen": "Into the Breach",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemAscendancyLifeRemnants",
+    "name": "生命痕跡",
+    "nameen": "Life Remnants",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemAscendancyManifestWeapon",
+    "name": "幻化武器",
+    "nameen": "Manifest Weapon",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemAscendancyMeditate",
+    "name": "冥想",
+    "nameen": "Meditate",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemAscendancyPoisonousConcoction",
+    "name": "毒藥",
+    "nameen": "Poisonous Concoction",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemAscendancyRitualSacrifice",
+    "name": "儀式獻祭",
+    "nameen": "Ritual Sacrifice",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemAscendancyShatteringConcoction",
+    "name": "粉碎混合物",
+    "nameen": "Shattering Concoction",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemAscendancySorceryWard",
+    "name": "巫術護盾",
+    "nameen": "Sorcery Ward",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemAscendancySummonInfernalHound",
+    "name": "召喚獄炎獵犬",
+    "nameen": "Summon Infernal Hound",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemAscendancyTemperWeapon",
+    "name": "鍛鍊武器",
+    "nameen": "Temper Weapon",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemAscendancyTemporalRift",
+    "name": "時空裂隙",
+    "nameen": "Temporal Rift",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemAscendancyTimeFreeze",
+    "name": "時間凍結",
+    "nameen": "Time Freeze",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemAscendancyTimeSnap",
+    "name": "時間短縮",
+    "nameen": "Time Snap",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemAscendancyUnboundAvatar",
+    "name": "無縛化身",
+    "nameen": "Unbound Avatar",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemAscendancyUnleash",
+    "name": "釋放",
+    "nameen": "Unleash",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemAttrition",
+    "name": "損耗",
+    "nameen": "Attrition",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemBerserk",
+    "name": "狂戰",
+    "nameen": "Berserk",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemBlink",
+    "name": "閃現",
+    "nameen": "Blink",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemBlinkSandPlayer",
+    "name": "閃現",
+    "nameen": "Blink",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemBloodhoundsMark",
+    "name": "鮮血獵犬印記",
+    "nameen": "Bloodhound's Mark",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemBoneBlast",
+    "name": "骨之爆破",
+    "nameen": "Bone Blast",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemBoneCage",
+    "name": "骨牢",
+    "nameen": "Bone Cage",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemBonestorm",
+    "name": "骸骨風暴",
+    "nameen": "Bonestorm",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemChaoticInfusion",
+    "name": "混沌灌注",
+    "nameen": "Chaotic Infusion",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemChargeInfusion",
+    "name": "充能灌注",
+    "nameen": "Charge Infusion",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemClusterGrenade",
+    "name": "集束擲彈",
+    "nameen": "Cluster Grenade",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemColdSnap",
+    "name": "霜暴",
+    "nameen": "Cold Snap",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemCombatFrenzy",
+    "name": "戰鬥狂怒",
+    "nameen": "Combat Frenzy",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemConvalescence",
+    "name": "恢復期",
+    "nameen": "Convalescence",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemCullTheWeak",
+    "name": "Cull The Weak",
+    "nameen": "Cull The Weak",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemDarkEffigy",
+    "name": "黑暗雕像",
+    "nameen": "Dark Effigy",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemDefianceBanner",
+    "name": "反抗之旗",
+    "nameen": "Defiance Banner",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemDetonateMinion",
+    "name": "引爆召喚物",
+    "nameen": "Detonate Minion",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemDetonatingArrow",
+    "name": "爆破箭矢",
+    "nameen": "Detonating Arrow",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemDreadBanner",
+    "name": "恐懼之旗",
+    "nameen": "Dread Banner",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemElectrocutingArrow",
+    "name": "電極箭矢",
+    "nameen": "Electrocuting Arrow",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemElementalConflux",
+    "name": "元素匯流",
+    "nameen": "Elemental Conflux",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemElementalInvocation",
+    "name": "元素祈願",
+    "nameen": "Elemental Invocation",
+    "tag": "精魂宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemElementalSiphon",
+    "name": "元素虹吸",
+    "nameen": "Elemental Siphon",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemElementalSundering",
+    "name": "元素崩裂",
+    "nameen": "Elemental Sundering",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemEmergencyReload",
+    "name": "緊急裝填",
+    "nameen": "Emergency Reload",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemExplosiveGrenade",
+    "name": "爆炸擲彈",
+    "nameen": "Explosive Grenade",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemExplosiveShot",
+    "name": "爆炸矢",
+    "nameen": "Explosive Shot",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemExplosiveSpear",
+    "name": "爆炸長鋒",
+    "nameen": "Explosive Spear",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemFangsOfFrost",
+    "name": "刺骨寒冰",
+    "nameen": "Fangs of Frost",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemFireball",
+    "name": "火球",
+    "nameen": "Fireball",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemFlashGrenade",
+    "name": "閃光擲彈",
+    "nameen": "Flash Grenade",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemFragmentationRounds",
+    "name": "分裂彈藥",
+    "nameen": "Fragmentation Rounds",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemFreezingMark",
+    "name": "冰凍印記",
+    "nameen": "Freezing Mark",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemFreezingSalvo",
+    "name": "凍結齊射",
+    "nameen": "Freezing Salvo",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemFrozenLocus",
+    "name": "寒冰軌跡",
+    "nameen": "Frozen Locus",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemGalvanicShards",
+    "name": "電能碎片",
+    "nameen": "Galvanic Shards",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemGasArrow",
+    "name": "毒氣箭矢",
+    "nameen": "Gas Arrow",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemGasGrenade",
+    "name": "毒氣擲彈",
+    "nameen": "Gas Grenade",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemGatheringStorm",
+    "name": "風暴凝聚",
+    "nameen": "Gathering Storm",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemGlacialBolt",
+    "name": "冰川弩箭",
+    "nameen": "Glacial Bolt",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemGrimFeast",
+    "name": "冷酷之宴",
+    "nameen": "Grim Feast",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemHailstormRounds",
+    "name": "冰雹彈藥",
+    "nameen": "Hailstorm Rounds",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemHammerOfTheGods",
+    "name": "眾神之錘",
+    "nameen": "Hammer of the Gods",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemHandOfChayula",
+    "name": "夏烏拉之手",
+    "nameen": "Hand of Chayula",
+    "tag": "精魂宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemHeraldOfBlood",
+    "name": "鮮血之捷",
+    "nameen": "Herald of Blood",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemHeraldOfPlague",
+    "name": "瘟疫之捷",
+    "nameen": "Herald of Plague",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemHighVelocityRounds",
+    "name": "高速彈藥",
+    "nameen": "High Velocity Rounds",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemHydra",
+    "name": "九頭蛇近親",
+    "nameen": "Hydra Familiar",
+    "tag": "精魂宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemIceShards",
+    "name": "寒冰碎片",
+    "nameen": "Ice Shards",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemIceShot",
+    "name": "冰霜射擊",
+    "nameen": "Ice Shot",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemIcewalker",
+    "name": "WIP",
+    "nameen": "[DNT] Icewalker",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemIncendiaryShot",
+    "name": "烈焰射擊",
+    "nameen": "Incendiary Shot",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemLightningRod",
+    "name": "雷霆之杖",
+    "nameen": "Lightning Rod",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemLivingBombPlayer",
+    "name": "活體炸彈",
+    "nameen": "Living Bomb",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemMagmaBarrier",
+    "name": "熔岩屏障",
+    "nameen": "Magma Barrier",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemMagneticSalvo",
+    "name": "電磁齊射",
+    "nameen": "Magnetic Salvo",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemMalice",
+    "name": "絕滅恨惡",
+    "nameen": "Malice",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemManaDrain",
+    "name": "魔力吸取",
+    "nameen": "Mana Drain",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemManaRemnants",
+    "name": "魔力痕跡",
+    "nameen": "Mana Remnants",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemMantraOfDestruction",
+    "name": "毀滅神咒",
+    "nameen": "Mantra of Destruction",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemMoltenBlast",
+    "name": "熔火爆破",
+    "nameen": "Molten Blast",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemOilGrenade",
+    "name": "燃油擲彈",
+    "nameen": "Oil Grenade",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemOverwhelmingPresence",
+    "name": "壓倒性的存在",
+    "nameen": "Overwhelming Presence",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemParry",
+    "name": "招架",
+    "nameen": "Parry",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemPerfectStrike",
+    "name": "完美打擊",
+    "nameen": "Perfect Strike",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemPermafrostBolts",
+    "name": "永凍弩箭",
+    "nameen": "Permafrost Bolts",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemPlasmaBlast",
+    "name": "電漿強擊矢",
+    "nameen": "Plasma Blast",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemPlayerDefault1HAxe",
+    "name": "斧鉞斬",
+    "nameen": "Axe Slash",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemPlayerDefault1HMace",
+    "name": "錘之打擊",
+    "nameen": "Mace Strike",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemPlayerDefault1HSword",
+    "name": "劍刃斬",
+    "nameen": "Sword Slash",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemPlayerDefault2HAxe",
+    "name": "斧鉞斬",
+    "nameen": "Axe Slash",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemPlayerDefault2HMace",
+    "name": "錘之打擊",
+    "nameen": "Mace Strike",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemPlayerDefault2HSword",
+    "name": "劍刃斬",
+    "nameen": "Sword Slash",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemPlayerDefaultAxeAxe",
+    "name": "斧鉞斬",
+    "nameen": "Axe Slash",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemPlayerDefaultBow",
+    "name": "弓箭射擊",
+    "nameen": "Bow Shot",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemPlayerDefaultClaw",
+    "name": "利爪刺擊",
+    "nameen": "Claw Stab",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemPlayerDefaultClawClaw",
+    "name": "利爪刺擊",
+    "nameen": "Claw Stab",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemPlayerDefaultCrossbow",
+    "name": "十字弓射擊",
+    "nameen": "Crossbow Shot",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemPlayerDefaultDagger",
+    "name": "匕首刺擊",
+    "nameen": "Dagger Stab",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemPlayerDefaultDaggerDagger",
+    "name": "匕首刺擊",
+    "nameen": "Dagger Stab",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemPlayerDefaultFlail",
+    "name": "鏈錘打擊",
+    "nameen": "Flail Strike",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemPlayerDefaultMaceMace",
+    "name": "錘之打擊",
+    "nameen": "Mace Strike",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemPlayerDefaultQuarterstaff",
+    "name": "細杖打擊",
+    "nameen": "Quarterstaff Strike",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemPlayerDefaultSpear",
+    "name": "長鋒刺擊",
+    "nameen": "Spear Stab",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemPlayerDefaultSpearOffHand",
+    "name": "長鋒刺擊",
+    "nameen": "Spear Stab",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemPlayerDefaultSpearThrow",
+    "name": "長鋒投擲",
+    "nameen": "Spear Throw",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemPlayerDefaultSwordSword",
+    "name": "劍刃斬",
+    "nameen": "Sword Slash",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemPlayerDefaultUnarmed",
+    "name": "正拳",
+    "nameen": "Punch",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemPlaytestAttack",
+    "name": "測試攻擊",
+    "nameen": "Playtest Attack",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemPlaytestSlam",
+    "name": "測試重擊",
+    "nameen": "Playtest Slam",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemPlaytestSpell",
+    "name": "測試法術",
+    "nameen": "Playtest Spell",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemPoisonBurstArrow",
+    "name": "毒爆箭矢",
+    "nameen": "Poisonburst Arrow",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemPrimalStrikes",
+    "name": "原始打擊",
+    "nameen": "Primal Strikes",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemProfaneRitual",
+    "name": "瀆神祭祀",
+    "nameen": "Profane Ritual",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemRagingSpirits",
+    "name": "怒炎之靈",
+    "nameen": "Raging Spirits",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemRake",
+    "name": "陰爪",
+    "nameen": "Rake",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemRapidShot",
+    "name": "疾射",
+    "nameen": "Rapid Shot",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemReapersInvocation",
+    "name": "收割者的祈願",
+    "nameen": "Reaper's Invocation",
+    "tag": "精魂宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemResonatingShield",
+    "name": "共鳴之盾",
+    "nameen": "Resonating Shield",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemSacrifice",
+    "name": "獻祭",
+    "nameen": "Sacrifice",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemScavengedPlating",
+    "name": "拾荒者護板",
+    "nameen": "Scavenged Plating",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemShardScavenger",
+    "name": "碎片清除者",
+    "nameen": "Shard Scavenger",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemShieldBlock",
+    "name": "展開護盾",
+    "nameen": "Raise Shield",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemShieldWall",
+    "name": "盾牆",
+    "nameen": "Shield Wall",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemShieldingCry",
+    "name": "防護戰吼",
+    "nameen": "Shielding Cry",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemShockburstRounds",
+    "name": "震爆彈藥",
+    "nameen": "Shockburst Rounds",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemShockchainArrow",
+    "name": "電鍊箭矢",
+    "nameen": "Shockchain Arrow",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemSiegeCascade",
+    "name": "圍城爆發",
+    "nameen": "Siege Cascade",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemSiphoningStrike",
+    "name": "虹吸打擊",
+    "nameen": "Siphoning Strike",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemSnipe",
+    "name": "狙擊",
+    "nameen": "Snipe",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemSolarOrb",
+    "name": "日耀球",
+    "nameen": "Solar Orb",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemSoulOffering",
+    "name": "靈魂獻祭",
+    "nameen": "Soul Offering",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemSpearDischarge",
+    "name": "WIP",
+    "nameen": "[DNT] Spear Discharge",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemSpearOfSolaris",
+    "name": "日耀長鋒",
+    "nameen": "Spear of Solaris",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemSpearWindVortex",
+    "name": "WIP",
+    "nameen": "[DNT] Spear Vortex",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemStampede",
+    "name": "踐踏",
+    "nameen": "Stampede",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemStormLance",
+    "name": "風暴之槍",
+    "nameen": "Storm Lance",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemStormWave",
+    "name": "風暴浪湧",
+    "nameen": "Storm Wave",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemStormblastBolts",
+    "name": "雷暴彈藥",
+    "nameen": "Stormblast Bolts",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemStormcallerArrow",
+    "name": "風暴呼喚箭矢",
+    "nameen": "Stormcaller Arrow",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemTameBeast",
+    "name": "馴獸",
+    "nameen": "Tame Beast",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemTempestBell",
+    "name": "風暴之鐘",
+    "nameen": "Tempest Bell",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemThunderousLeap",
+    "name": "雷霆跳躍",
+    "nameen": "Thunderous Leap",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemTimeOfNeed",
+    "name": "緊急時刻",
+    "nameen": "Time of Need",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemTornadoShot",
+    "name": "龍捲射擊",
+    "nameen": "Tornado Shot",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemToxicGrowth",
+    "name": "毒素植栽",
+    "nameen": "Toxic Growth",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemTriggeredDetonation",
+    "name": "WIP",
+    "nameen": "[DNT] Detonation",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemTriggeredGasCloud",
+    "name": "WIP",
+    "nameen": "[DNT] Gas Cloud",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemTrinity",
+    "name": "三相",
+    "nameen": "Trinity",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemTwister",
+    "name": "旋風",
+    "nameen": "Twister",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemUnearth",
+    "name": "屍術矢",
+    "nameen": "Unearth",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemUniqueBreachLightningBolt",
+    "name": "雷彈",
+    "nameen": "Lightning Bolt",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemUniqueDuskVigilTriggeredBlazingCluster",
+    "name": "餘燼齊射",
+    "nameen": "Ember Fusillade",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemUniqueEarthboundTriggeredSpark",
+    "name": "電球",
+    "nameen": "Spark",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemUnusable",
+    "name": "已移除技能",
+    "nameen": "Removed Skill",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemVaultingImpact",
+    "name": "跳躍衝擊",
+    "nameen": "Vaulting Impact",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemVineArrow",
+    "name": "藤蔓箭矢",
+    "nameen": "Vine Arrow",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemVoltaicMark",
+    "name": "電流印記",
+    "nameen": "Voltaic Mark",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemWarBanner",
+    "name": "戰爭之旗",
+    "nameen": "War Banner",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemWhirlwindLance",
+    "name": "旋風之槍",
+    "nameen": "Whirlwind Lance",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemWindDancer",
+    "name": "風魔舞者",
+    "nameen": "Wind Dancer",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemWindSerpentsFury",
+    "name": "勁風蝮蛇之怒",
+    "nameen": "Wind Serpent's Fury",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SkillGemWitheringPresence",
+    "name": "凋零光環",
+    "nameen": "Withering Presence",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemAbidingHex",
+    "name": "永久咒術",
+    "nameen": "Abiding Hex",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemAblation",
+    "name": "消融",
+    "nameen": "Ablation",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemAcrimony",
+    "name": "毒辣",
+    "nameen": "Acrimony",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemAdhere",
+    "name": "堅守",
+    "nameen": "Adhere",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemAilmentCDR",
+    "name": "WIP",
+    "nameen": "[DNT] Ailment CDR",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemAlignment",
+    "name": "聯合",
+    "nameen": "Alignment",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemAmbrosia",
+    "name": "艾布蘿西雅 ",
+    "nameen": "Ambrosia",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemAmmoConservation",
+    "name": "彈藥保存",
+    "nameen": "Ammo Conservation",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemAncestralAid",
+    "name": "先祖援助",
+    "nameen": "Ancestral Aid",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemAncestralCall",
+    "name": "先祖怒嚎",
+    "nameen": "Ancestral Call",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemAncestralUrgency",
+    "name": "先祖執著",
+    "nameen": "Ancestral Urgency",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemArmourExplosion",
+    "name": "護甲爆破",
+    "nameen": "Armour Explosion",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemArmsLength",
+    "name": "伸手可及",
+    "nameen": "Arms Length",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemAstralProjection",
+    "name": "星空投影",
+    "nameen": "Astral Projection",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemAutoReload",
+    "name": "自動裝填",
+    "nameen": "Auto Reload",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemBarbs",
+    "name": "倒刺",
+    "nameen": "Barbs",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemBattershout",
+    "name": "猛擊吶喊",
+    "nameen": "Battershout",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemBidding",
+    "name": "出價",
+    "nameen": "Bidding",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemBlindside",
+    "name": "偷襲",
+    "nameen": "Blindside",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemBlockCDR",
+    "name": "WIP",
+    "nameen": "[DNT] Block CDR",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemBloodintheEyes",
+    "name": "殺紅眼",
+    "nameen": "Blood in the Eyes",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemBoneShrapnel",
+    "name": "骨片",
+    "nameen": "Bone Shrapnel",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemBreakEndurance",
+    "name": "打破忍耐",
+    "nameen": "Break Endurance",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemBrink",
+    "name": "邊緣",
+    "nameen": "Brink",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemBurgeon",
+    "name": "萌芽",
+    "nameen": "Burgeon",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemCadence",
+    "name": "終止",
+    "nameen": "Cadence",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemCaltrops",
+    "name": "蒺藜",
+    "nameen": "Caltrops",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemCapacitor",
+    "name": "電容",
+    "nameen": "Capacitor",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemCatharsis",
+    "name": "宣洩",
+    "nameen": "Catharsis",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemChaoticFreeze",
+    "name": "混沌冰凍",
+    "nameen": "Chaotic Freeze",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemChargedShots",
+    "name": "充能射擊",
+    "nameen": "Charged Shots",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemCharmBounty",
+    "name": "護符恩惠",
+    "nameen": "Charm Bounty",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemClash",
+    "name": "交鋒",
+    "nameen": "Clash",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemCommandment",
+    "name": "誡命",
+    "nameen": "Commandment",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemCommiserate",
+    "name": "憐憫",
+    "nameen": "Commiserate",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemConcoct",
+    "name": "調製",
+    "nameen": "Concoct",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemConsideredCasting",
+    "name": "細思施法",
+    "nameen": "Considered Casting",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemCoolHeaded",
+    "name": "冷靜",
+    "nameen": "Cool Headed",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemCorpseConservation",
+    "name": "屍體保存",
+    "nameen": "Corpse Conservation",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemCracklingBarrier",
+    "name": "電流屏障",
+    "nameen": "Crackling Barrier",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemCrazedMinions",
+    "name": "發狂召喚物",
+    "nameen": "Crazed Minions",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemCullingStrike",
+    "name": "撲殺",
+    "nameen": "Culling Strike",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemCulmination",
+    "name": "頂點",
+    "nameen": "Culmination",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemCursedGround",
+    "name": "詛咒地面",
+    "nameen": "Cursed Ground",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemDanseMacabre",
+    "name": "骷髏之舞",
+    "nameen": "Danse Macabre",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemDauntless",
+    "name": "無畏",
+    "nameen": "Dauntless",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemDazingCry",
+    "name": "目眩戰吼",
+    "nameen": "Dazing Cry",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemDazzle",
+    "name": "目眩",
+    "nameen": "Dazzle",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemDeathmarch",
+    "name": "死亡行進",
+    "nameen": "Deathmarch",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemDecayingHex",
+    "name": "腐朽咒術",
+    "nameen": "Decaying Hex",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemDefy",
+    "name": "違抗",
+    "nameen": "Defy",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemDelayedGratification",
+    "name": "延遲滿足感",
+    "nameen": "Delayed Gratification",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemDelayedReaction",
+    "name": "延遲反應",
+    "nameen": "Delayed Reaction",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemDeliberation",
+    "name": "審慎",
+    "nameen": "Deliberation",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemDerange",
+    "name": "精神錯亂",
+    "nameen": "Derange",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemDesperation",
+    "name": "絕望",
+    "nameen": "Desperation",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemDireStrike",
+    "name": "極惡打擊",
+    "nameen": "Direstrike",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemDissipate",
+    "name": "消散",
+    "nameen": "Dissipate",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemDomain",
+    "name": "領域",
+    "nameen": "Domain",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemDoubleBarrel",
+    "name": "雙管",
+    "nameen": "Double Barrel",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemEmbitter",
+    "name": "激怒",
+    "nameen": "Embitter",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemEnergyRetention",
+    "name": "能量保留",
+    "nameen": "Energy Retention",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemEnormity",
+    "name": "巨大",
+    "nameen": "Enormity",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemEternalService",
+    "name": "WIP",
+    "nameen": "[DNT] Eternal Service",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemExcise",
+    "name": "切除",
+    "nameen": "Excise",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemExcoriate",
+    "name": "痛斥",
+    "nameen": "Excoriate",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemExecrate",
+    "name": "咒怨",
+    "nameen": "Execrate",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemExpanse",
+    "name": "廣闊區域",
+    "nameen": "Expanse",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemExpedite",
+    "name": "疾速",
+    "nameen": "Expedite",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemExtraction",
+    "name": "提取",
+    "nameen": "Extraction",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemFerocity",
+    "name": "狂暴",
+    "nameen": "Ferocity",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemFigurehead",
+    "name": "傀儡",
+    "nameen": "Figurehead",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemFirstBlood",
+    "name": "浴血鬥士",
+    "nameen": "First Blood",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemFlamepierce",
+    "name": "烈焰穿透",
+    "nameen": "Flamepierce",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemFlow",
+    "name": "流動",
+    "nameen": "Flow",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemFluke",
+    "name": "僥倖",
+    "nameen": "Fluke",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemFocusedCurse",
+    "name": "專注詛咒",
+    "nameen": "Focused Curse",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemFreezefork",
+    "name": "冰凍之叉",
+    "nameen": "Freezefork",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemFreshClip",
+    "name": "全新彈夾",
+    "nameen": "Fresh Clip",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemFrosthunger",
+    "name": "WIP",
+    "nameen": "[DNT] Frosthunger",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemGambleshot",
+    "name": "博弈射擊",
+    "nameen": "Gambleshot",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemGlacier",
+    "name": "冰河",
+    "nameen": "Glacier",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemGreatwood",
+    "name": "大森林",
+    "nameen": "Greatwood",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemHaemocrystals",
+    "name": "血晶",
+    "nameen": "Haemocrystals",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemHeft",
+    "name": "分量",
+    "nameen": "Heft",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemHinder",
+    "name": "阻礙",
+    "nameen": "Hinder",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemHitAndRun",
+    "name": "打帶跑",
+    "nameen": "Hit and Run",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemHoarfrost",
+    "name": "白霜",
+    "nameen": "Hoarfrost",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemHolyDescent",
+    "name": "神聖血統",
+    "nameen": "Holy Descent",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemIcicle",
+    "name": "冰柱",
+    "nameen": "Icicle",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemImpale",
+    "name": "穿刺",
+    "nameen": "Impale",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemImpetus",
+    "name": "動力",
+    "nameen": "Impetus",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemIncision",
+    "name": "切割",
+    "nameen": "Incision",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemInhibitor",
+    "name": "Inhibitor",
+    "nameen": "Inhibitor",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemInnervate",
+    "name": "亢奮",
+    "nameen": "Innervate",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemIntenseAgony",
+    "name": "劇烈苦痛",
+    "nameen": "Intense Agony",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemInterlude",
+    "name": "間歇",
+    "nameen": "Interlude",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemIronwood",
+    "name": "鐵木",
+    "nameen": "Ironwood",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemLastGasp",
+    "name": "臨終恐息",
+    "nameen": "Last Gasp",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemLeverage",
+    "name": "槓桿",
+    "nameen": "Leverage",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemLingeringPresence",
+    "name": "WIP",
+    "nameen": "[DNT] Lingering Presence",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemLongFuse",
+    "name": "長引線",
+    "nameen": "Long Fuse",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemLoyalty",
+    "name": "忠誠",
+    "nameen": "Loyalty",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemMagnetism",
+    "name": "磁力",
+    "nameen": "Magnetism",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemMalady",
+    "name": "疾病",
+    "nameen": "Malady",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemMinionInstability",
+    "name": "復仇之靈",
+    "nameen": "Minion Instability",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemMinionPact",
+    "name": "召喚物契約",
+    "nameen": "Minion Pact",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemMuster",
+    "name": "召集",
+    "nameen": "Muster",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemMysticism",
+    "name": "秘術",
+    "nameen": "Mysticism",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemNadir",
+    "name": "消沉",
+    "nameen": "Nadir",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemNimbleReload",
+    "name": "靈活裝填",
+    "nameen": "Nimble Reload",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemOutmaneuver",
+    "name": "出奇制勝",
+    "nameen": "Outmaneuver",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemOverextend",
+    "name": "過分擴張",
+    "nameen": "Overextend",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemOverwhelmingForce",
+    "name": "WIP",
+    "nameen": "[DNT] Overwhelming Force",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemPayload",
+    "name": "承載",
+    "nameen": "Payload",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemPerfection",
+    "name": "完美",
+    "nameen": "Perfection",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemPotential",
+    "name": "潛力",
+    "nameen": "Potential",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemPracticedCombo",
+    "name": "熟練連擊",
+    "nameen": "Practiced Combo",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemProfanity",
+    "name": "瀆神",
+    "nameen": "Profanity",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemPunchThrough",
+    "name": "透勁拳",
+    "nameen": "Punch Through",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemPursuit",
+    "name": "追擊",
+    "nameen": "Pursuit",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemQuillBurst",
+    "name": "驟羽爆發",
+    "nameen": "Quill Burst",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemRageforged",
+    "name": "盛怒鍛造",
+    "nameen": "Rageforged",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemRagingCry",
+    "name": "憤怒戰吼",
+    "nameen": "Raging Cry",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemRally",
+    "name": "集結",
+    "nameen": "Rally",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemReach",
+    "name": "目光",
+    "nameen": "Reach",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemRearm",
+    "name": "重新佈署",
+    "nameen": "Rearm",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemRefraction",
+    "name": "折射",
+    "nameen": "Refraction",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemRetaliate",
+    "name": "報復",
+    "nameen": "Retaliate",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemRetort",
+    "name": "反駁",
+    "nameen": "Retort",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemRetreat",
+    "name": "撤退",
+    "nameen": "Retreat",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemReverberate",
+    "name": "回響",
+    "nameen": "Reverberate",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemRicochet",
+    "name": "彈射",
+    "nameen": "Ricochet",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemRime",
+    "name": "霧淞",
+    "nameen": "Rime",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemRip",
+    "name": "撕毀",
+    "nameen": "Rip",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemRitualisticCurse",
+    "name": "儀式詛咒",
+    "nameen": "Ritualistic Curse",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemRupture",
+    "name": "殘破",
+    "nameen": "Rupture",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemRustedSpikes",
+    "name": "銹蝕尖刺",
+    "nameen": "Rusted Spikes",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemSacrificialLamb",
+    "name": "獻祭羔羊",
+    "nameen": "Sacrificial Lamb",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemSalvo",
+    "name": "齊射",
+    "nameen": "Salvo",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemSeeRed",
+    "name": "赤紅目光",
+    "nameen": "See Red",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemShockingLeap",
+    "name": "震擊之躍",
+    "nameen": "Shocking Leap",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemSingleOut",
+    "name": "單打獨鬥",
+    "nameen": "Single Out",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemSoulbreaker",
+    "name": "破魂者",
+    "nameen": "Soulbreaker",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemSpar",
+    "name": "打擊練習",
+    "nameen": "Spar",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemSpectralPalm",
+    "name": "WIP",
+    "nameen": "[DNT] Spectral Palm",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemSpectralVolley",
+    "name": "靈體齊射",
+    "nameen": "Spectral Volley",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemSpellCascade",
+    "name": "法術湧流",
+    "nameen": "Spell Cascade",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemSpellblade",
+    "name": "WIP",
+    "nameen": "[DNT] Spellblade",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemSteadfast",
+    "name": "穩若泰山",
+    "nameen": "Steadfast",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemStompingGround",
+    "name": "重踏地面",
+    "nameen": "Stomping Ground",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemStormchain",
+    "name": "風暴之鏈",
+    "nameen": "Stormchain",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemStripAway",
+    "name": "剝奪",
+    "nameen": "Strip Away",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemStrongHearted",
+    "name": "不屈之心",
+    "nameen": "Strong Hearted",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemStunCDR",
+    "name": "WIP",
+    "nameen": "[DNT] Stun CDR",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemSuffuse",
+    "name": "瀰漫",
+    "nameen": "Suffuse",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemSwiftAffliction",
+    "name": "極速苦痛",
+    "nameen": "Swift Affliction",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemSyzygy",
+    "name": "朔望",
+    "nameen": "Syzygy",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemTear",
+    "name": "撕裂",
+    "nameen": "Tear",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemThornskin",
+    "name": "荊棘之皮",
+    "nameen": "Thornskin",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemTimerot",
+    "name": "WIP",
+    "nameen": "[DNT] Timerot",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemTireless",
+    "name": "孜孜不倦",
+    "nameen": "Tireless",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemTitanicArrows",
+    "name": "WIP",
+    "nameen": "[DNT] Titanic Arrows",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemTremors",
+    "name": "威震",
+    "nameen": "Tremors",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemTumult",
+    "name": "紛亂",
+    "nameen": "Tumult",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemTwofold",
+    "name": "雙重",
+    "nameen": "Twofold",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemUnabating",
+    "name": "勢頭不減",
+    "nameen": "Unabating",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemUnbending",
+    "name": "永不屈服",
+    "nameen": "Unbending",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemUndermine",
+    "name": "破壞",
+    "nameen": "Undermine",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemUnerringPower",
+    "name": "精準力量",
+    "nameen": "Unerring Power",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemUnsteadyTempo",
+    "name": "不穩節奏",
+    "nameen": "Unsteady Tempo",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemUntouchable",
+    "name": "無法觸碰",
+    "nameen": "Untouchable",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemUnyielding",
+    "name": "屹立不搖",
+    "nameen": "Unyielding",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemUpheaval",
+    "name": "動亂",
+    "nameen": "Upheaval",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemUpwelling",
+    "name": "湧升流",
+    "nameen": "Upwelling",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemVerglas",
+    "name": "冰淞",
+    "nameen": "Verglas",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemVolatilePower",
+    "name": "不穩定的力量",
+    "nameen": "Volatile Power",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemVolatility",
+    "name": "易變",
+    "nameen": "Volatility",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemVolcanicEruption",
+    "name": "火山迸發",
+    "nameen": "Volcanic Eruption",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemVolt",
+    "name": "電壓",
+    "nameen": "Volt",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemVulnerableExtension",
+    "name": "WIP",
+    "nameen": "[DNT] Vulnerable Extension",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemWarmBlooded",
+    "name": "滿腔熱血",
+    "nameen": "Warm Blooded",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemWildshards",
+    "name": "野性碎片",
+    "nameen": "Wildshards",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gem/SupportGemZenith",
+    "name": "極盛之尊",
+    "nameen": "Zenith",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/ReservationSkillGemUnknown1",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/ReservationSkillGemUnknown2",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/ReservationSkillGemUnknown3",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/ReservationSkillGemUnknown4",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/ReservationSkillGemUnknown5",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/ReservationSkillGemUnknown6",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/ReservationSkillGemUnknown7",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/ReservationSkillGemUnknown8",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/ReservationSkillGemUnknown9",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemAncestralWarriorTotem",
+    "name": "先祖戰士圖騰",
+    "nameen": "Ancestral Warrior Totem",
+    "tag": "精魂宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemArc",
+    "name": "電弧",
+    "nameen": "Arc",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemArcticArmour",
+    "name": "極地裝甲",
+    "nameen": "Arctic Armour",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemArmourBreaker",
+    "name": "護甲碎擊",
+    "nameen": "Armour Breaker",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemArtilleryBallista",
+    "name": "火砲砲塔",
+    "nameen": "Artillery Ballista",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemAscendancySupportingFire",
+    "name": "支援火力",
+    "nameen": "Supporting Fire",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemAxeChop",
+    "name": "WIP",
+    "nameen": "[DNT] Axe Chop",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemAxeExecute",
+    "name": "WIP",
+    "nameen": "[DNT] Axe Execute",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemAxeHeavyCleave",
+    "name": "WIP",
+    "nameen": "[DNT] Axe Heavy Cleave",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemAxeLeapingChop",
+    "name": "WIP",
+    "nameen": "[DNT] Axe Leaping Chop",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemAxeRaisedChop",
+    "name": "WIP",
+    "nameen": "[DNT] Axe Raised Chop",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemAxeSlash",
+    "name": "WIP",
+    "nameen": "[DNT] Axe Slash",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemAxeWhirlingSlash",
+    "name": "WIP",
+    "nameen": "[DNT] Axe Whirling Slash",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemBallLightning",
+    "name": "天雷之珠",
+    "nameen": "Ball Lightning",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemBarrage",
+    "name": "彈幕",
+    "nameen": "Barrage",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemBarrierInvocation",
+    "name": "屏障祈願",
+    "nameen": "Barrier Invocation",
+    "tag": "精魂宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemBearMaul",
+    "name": "爪擊",
+    "nameen": "Maul",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemBearRampage",
+    "name": "暴怒",
+    "nameen": "Rampage",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemBindSpectre",
+    "name": "束縛幽魂",
+    "nameen": "Bind Spectre",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemBladeDance",
+    "name": "WIP",
+    "nameen": "[DNT] Blade Dance",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemBladeNova",
+    "name": "WIP",
+    "nameen": "[DNT] Blade Nova",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemBlasphemy",
+    "name": "瀆神",
+    "nameen": "Blasphemy",
+    "tag": "精魂宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemBloodHunt",
+    "name": "鮮血狩獵",
+    "nameen": "Blood Hunt",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemBoneOffering",
+    "name": "骸骨奉獻",
+    "nameen": "Bone Offering",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemBoneshatter",
+    "name": "碎骨",
+    "nameen": "Boneshatter",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemCastOnBlock",
+    "name": "格擋時施放",
+    "nameen": "Cast on Block",
+    "tag": "精魂宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemCastOnCharmUse",
+    "name": "使用護符時施放",
+    "nameen": "Cast on Charm Use",
+    "tag": "精魂宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemCastOnCritical",
+    "name": "暴擊時施放",
+    "nameen": "Cast on Critical",
+    "tag": "精魂宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemCastOnDeath",
+    "name": "死亡時施放",
+    "nameen": "Cast on Death",
+    "tag": "精魂宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemCastOnDodge",
+    "name": "閃避時施放",
+    "nameen": "Cast on Dodge",
+    "tag": "精魂宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemCastOnFreeze",
+    "name": "冰凍時施放",
+    "nameen": "Cast on Freeze",
+    "tag": "精魂宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemCastOnIgnite",
+    "name": "點燃時施放",
+    "nameen": "Cast on Ignite",
+    "tag": "精魂宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemCastOnMeleeKill",
+    "name": "近戰擊殺時施放",
+    "nameen": "Cast on Melee Kill",
+    "tag": "精魂宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemCastOnMeleeStun",
+    "name": "近戰擊暈時施放",
+    "nameen": "Cast on Melee Stun",
+    "tag": "精魂宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemCastOnMinionDeath",
+    "name": "召喚物死亡時施放",
+    "nameen": "Cast on Minion Death",
+    "tag": "精魂宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemCastOnShock",
+    "name": "感電時施放",
+    "nameen": "Cast on Shock",
+    "tag": "精魂宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemCastWhenDamageTaken",
+    "name": "受傷時施放",
+    "nameen": "Cast when Damage Taken",
+    "tag": "精魂宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemCastWhenStunned",
+    "name": "暈眩時施放",
+    "nameen": "Cast when Stunned",
+    "tag": "精魂宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemCastWhileChannelling",
+    "name": "引導時施放",
+    "nameen": "Cast while Channelling",
+    "tag": "精魂宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemChaosbolt",
+    "name": "混沌弩箭",
+    "nameen": "Chaos Bolt",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemChargedStaff",
+    "name": "充能長杖",
+    "nameen": "Charged Staff",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemClawRake",
+    "name": "WIP",
+    "nameen": "[DNT] Claw Rake",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemComboKnifeThrow",
+    "name": "WIP",
+    "nameen": "[DNT] Combo Knife Throw",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemComet",
+    "name": "彗星",
+    "nameen": "Comet",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemConductivity",
+    "name": "導電",
+    "nameen": "Conductivity",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemContagion",
+    "name": "瘟疫",
+    "nameen": "Contagion",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemCorpseCloud",
+    "name": "分解",
+    "nameen": "Decompose",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemCorpsewadeCorpseCloud",
+    "name": "分解",
+    "nameen": "Decompose",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemDarkPact",
+    "name": "暗夜血契",
+    "nameen": "Dark Pact",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemDemonMagus",
+    "name": "惡魔瑪格思",
+    "nameen": "Demon Magus",
+    "tag": "精魂宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemDespair",
+    "name": "絕望",
+    "nameen": "Despair",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemDetonateDead",
+    "name": "屍體爆破",
+    "nameen": "Detonate Dead",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemDiscipline",
+    "name": "紀律",
+    "nameen": "Discipline",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemDisengage",
+    "name": "脫離戰鬥",
+    "nameen": "Disengage",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemDodgeRoll",
+    "name": "WIP",
+    "nameen": "[DNT] Dodge Roll",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemDominatingAura",
+    "name": "WIP",
+    "nameen": "[DNT] Dominating Aura",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemEarthquake",
+    "name": "震地",
+    "nameen": "Earthquake",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemEarthshatter",
+    "name": "碎地重擊",
+    "nameen": "Earthshatter",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemEmberFusillade",
+    "name": "餘燼齊射",
+    "nameen": "Ember Fusillade",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemEnfeeble",
+    "name": "衰弱",
+    "nameen": "Enfeeble",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemEscapeShot",
+    "name": "逃脫之矢",
+    "nameen": "Escape Shot",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemEssenceDrain",
+    "name": "靈魂吸取",
+    "nameen": "Essence Drain",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemEvasiveStrike",
+    "name": "WIP",
+    "nameen": "[DNT] Evasive Strike",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemExsanguinate",
+    "name": "抽血",
+    "nameen": "Exsanguinate",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemEyeOfWinter",
+    "name": "凜冬之眼",
+    "nameen": "Eye of Winter",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemFallingThunder",
+    "name": "崩雷鳴",
+    "nameen": "Falling Thunder",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemFirebolt",
+    "name": "火彈",
+    "nameen": "Firebolt",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemFirestorm",
+    "name": "烈炎風暴",
+    "nameen": "Firestorm",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemFlameSlice",
+    "name": "WIP",
+    "nameen": "[DNT] Flame Slice",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemFlameWall",
+    "name": "烈焰之牆",
+    "nameen": "Flame Wall",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemFlameblast",
+    "name": "烈焰爆破",
+    "nameen": "Flameblast",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemFlammability",
+    "name": "易燃",
+    "nameen": "Flammability",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemFlickerStrike",
+    "name": "閃現打擊",
+    "nameen": "Flicker Strike",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemFreezingShards",
+    "name": "冰凍裂片",
+    "nameen": "Freezing Shards",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemFrostBomb",
+    "name": "寒霜爆",
+    "nameen": "Frost Bomb",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemFrostWall",
+    "name": "冰牆",
+    "nameen": "Frost Wall",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemFrostbolt",
+    "name": "寒冰彈",
+    "nameen": "Frostbolt",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemFuriousSlam",
+    "name": "狂暴重擊",
+    "nameen": "Furious Slam",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemGalvanicField",
+    "name": "電光領域",
+    "nameen": "Galvanic Field",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemGhostDance",
+    "name": "鬼魂之舞",
+    "nameen": "Ghost Dance",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemGlacialCascade",
+    "name": "冰川之刺",
+    "nameen": "Glacial Cascade",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemGlacialLance",
+    "name": "冰川之槍",
+    "nameen": "Glacial Lance",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemHeraldOfAsh",
+    "name": "灰燼之捷",
+    "nameen": "Herald of Ash",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemHeraldOfIce",
+    "name": "冰霜之捷",
+    "nameen": "Herald of Ice",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemHeraldOfThunder",
+    "name": "閃電之捷",
+    "nameen": "Herald of Thunder",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemHexblast",
+    "name": "咒術枯萎",
+    "nameen": "Hexblast",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemHyperSlash",
+    "name": "WIP",
+    "nameen": "[DNT] Hyper Slash",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemHypothermia",
+    "name": "急凍",
+    "nameen": "Hypothermia",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemIceNova",
+    "name": "冰霜新星",
+    "nameen": "Ice Nova",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemIceStrike",
+    "name": "冰擊",
+    "nameen": "Ice Strike",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemIncinerate",
+    "name": "燒毀",
+    "nameen": "Incinerate",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemInfernalCry",
+    "name": "煉獄戰吼",
+    "nameen": "Infernal Cry",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemKillingPalm",
+    "name": "摧命之掌",
+    "nameen": "Killing Palm",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemKnifeFlip",
+    "name": "WIP",
+    "nameen": "[DNT] Knife Flip",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemLeapSlam",
+    "name": "躍擊",
+    "nameen": "Leap Slam",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemLeapingAxeCatch",
+    "name": "WIP",
+    "nameen": "[DNT] Leaping Axe Catch",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemLightningArrow",
+    "name": "閃電箭矢",
+    "nameen": "Lightning Arrow",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemLightningBolt",
+    "name": "雷彈",
+    "nameen": "Lightning Bolt",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemLightningConduit",
+    "name": "導雷",
+    "nameen": "Lightning Conduit",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemLightningSpear",
+    "name": "閃電長鋒",
+    "nameen": "Lightning Spear",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemLightningSpellOnHit",
+    "name": "擊中時閃電法術",
+    "nameen": "Lightning Spell on Hit",
+    "tag": "精魂宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemLightningStorm",
+    "name": "閃電風暴",
+    "nameen": "Lightning Storm",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemLightningWarp",
+    "name": "閃電傳送",
+    "nameen": "Lightning Warp",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemLingeringIllusion",
+    "name": "殘留幻象",
+    "nameen": "Lingering Illusion",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemManaTempest",
+    "name": "魔力暴風",
+    "nameen": "Mana Tempest",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemManaforgedShots",
+    "name": "WIP",
+    "nameen": "[DNT] Manaforged Shots",
+    "tag": "精魂宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemMetaBowTotem",
+    "name": "WIP",
+    "nameen": "[DNT] Meta Bow Totem",
+    "tag": "精魂宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemMetaSpellTotem",
+    "name": "WIP",
+    "nameen": "[DNT] Meta Spell Totem",
+    "tag": "精魂宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemOrbOfStorms",
+    "name": "風暴漩渦",
+    "nameen": "Orb of Storms",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemPainOffering",
+    "name": "劇痛獻祭",
+    "nameen": "Pain Offering",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemPlagueBearer",
+    "name": "病疫之難",
+    "nameen": "Plague Bearer",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemPlungingBlade",
+    "name": "WIP",
+    "nameen": "[DNT] Plunging Blade",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemPowerSiphon",
+    "name": "力量抽取",
+    "nameen": "Power Siphon",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemPurityOfFire",
+    "name": "火焰淨化",
+    "nameen": "Purity of Fire",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemPurityOfIce",
+    "name": "冰霜淨化",
+    "nameen": "Purity of Ice",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemPurityOfLightning",
+    "name": "閃電淨化",
+    "nameen": "Purity of Lightning",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemRainOfArrows",
+    "name": "箭雨",
+    "nameen": "Rain of Arrows",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemRaiseZombie",
+    "name": "殭屍復甦",
+    "nameen": "Raise Zombie",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemRapidAssault",
+    "name": "極速進攻",
+    "nameen": "Rapid Assault",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemReap",
+    "name": "收割",
+    "nameen": "Reap",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemRhoaMount",
+    "name": "恐喙鳥坐騎",
+    "nameen": "Rhoa Mount",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemRingOfBlades",
+    "name": "WIP",
+    "nameen": "[DNT] RingOfBlades",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemRipwireBallista",
+    "name": "撕裂砲塔",
+    "nameen": "Ripwire Ballista",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemRollingMagma",
+    "name": "熔岩翻騰",
+    "nameen": "Rolling Magma",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemRollingSlam",
+    "name": "翻騰重擊",
+    "nameen": "Rolling Slam",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemSeismicCry",
+    "name": "裂地戰吼",
+    "nameen": "Seismic Cry",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemShadowAmbush",
+    "name": "WIP",
+    "nameen": "[DNT] Shadow Ambush",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemShadowDash",
+    "name": "WIP",
+    "nameen": "[DNT] Shadow Dash",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemShadowThiefSlash",
+    "name": "WIP",
+    "nameen": "[DNT] Shadow Thief Slash",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemShatteringPalm",
+    "name": "粉碎之掌",
+    "nameen": "Shattering Palm",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemShieldCharge",
+    "name": "重盾衝鋒",
+    "nameen": "Shield Charge",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemShockNova",
+    "name": "閃電新星",
+    "nameen": "Shock Nova",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemShockwaveTotem",
+    "name": "震波圖騰",
+    "nameen": "Shockwave Totem",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemShroud",
+    "name": "幽影",
+    "nameen": "Shroud",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemSigilOfPower",
+    "name": "咒符之力",
+    "nameen": "Sigil of Power",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemSkeletalArsonist",
+    "name": "骷髏縱火者",
+    "nameen": "Skeletal Arsonist",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemSkeletalBrute",
+    "name": "骷髏巨獸",
+    "nameen": "Skeletal Brute",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemSkeletalCleric",
+    "name": "骷髏牧師",
+    "nameen": "Skeletal Cleric",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemSkeletalFrostMage",
+    "name": "骷髏霜寒法師",
+    "nameen": "Skeletal Frost Mage",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemSkeletalReaver",
+    "name": "骷髏掠奪者",
+    "nameen": "Skeletal Reaver",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemSkeletalSniper",
+    "name": "骷髏狙擊手",
+    "nameen": "Skeletal Sniper",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemSkeletalStormMage",
+    "name": "骷髏風暴法師",
+    "nameen": "Skeletal Storm Mage",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemSkeletalWarrior",
+    "name": "骷髏狙擊手",
+    "nameen": "Skeletal Sniper",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemSkeletalWarriorWeaponSkill",
+    "name": "骷髏戰士",
+    "nameen": "Skeletal Warrior",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemSnipersMark",
+    "name": "狙擊者印記",
+    "nameen": "Sniper's Mark",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemSoulrend",
+    "name": "靈體撕裂",
+    "nameen": "Soulrend",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemSpark",
+    "name": "電球",
+    "nameen": "Spark",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemSpearfield",
+    "name": "長鋒之錐",
+    "nameen": "Spearfield",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemSpinningFlail",
+    "name": "WIP",
+    "nameen": "[DNT] Spinning Flail",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemSpinningInferno",
+    "name": "旋轉獄火",
+    "nameen": "Spinning Inferno",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemSpinningThrow",
+    "name": "WIP",
+    "nameen": "[DNT] Spinning Throw",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemSpiralThrow",
+    "name": "WIP",
+    "nameen": "[DNT] Spiral Throw",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemSpiralVolley",
+    "name": "螺旋之弦",
+    "nameen": "Spiral Volley",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemStaggeringPalm",
+    "name": "撼敵之掌",
+    "nameen": "Staggering Palm",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemStormBlade",
+    "name": "WIP",
+    "nameen": "[DNT] Storm Blade",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemSummonBeast",
+    "name": "盟友：{0}",
+    "nameen": "Companion: {0}",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemSummonMercenaryCompanion",
+    "name": "召喚盟友",
+    "nameen": "Summon Companion",
+    "tag": "精魂宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemSummonSpectre",
+    "name": "幽魂：{0}",
+    "nameen": "Spectre: {0}",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemSummonWolfCompanion",
+    "name": "召喚狼",
+    "nameen": "Summon Wolf",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemSunder",
+    "name": "大地震擊",
+    "nameen": "Sunder",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemSuperchargedSlam",
+    "name": "超載重擊",
+    "nameen": "Supercharged Slam",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemSwordLeapSlash",
+    "name": "WIP",
+    "nameen": "[DNT] Sword Leap Slash",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemSwordLunge",
+    "name": "WIP",
+    "nameen": "[DNT] Sword Lunge",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemTempestFlurry",
+    "name": "暴風亂舞",
+    "nameen": "Tempest Flurry",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemTemporalChains",
+    "name": "時空鎖鏈",
+    "nameen": "Temporal Chains",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemTornado",
+    "name": "龍捲風",
+    "nameen": "Tornado",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemTrailOfCaltrops",
+    "name": "蒺藜之徑",
+    "nameen": "Trail of Caltrops",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemTripleSlash",
+    "name": "WIP",
+    "nameen": "[DNT] Triple Slash Combo",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemUnknown1",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemUnknown10",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemUnknown11",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemUnknown12",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemUnknown13",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemUnknown14",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemUnknown15",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemUnknown16",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemUnknown17",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemUnknown18",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemUnknown19",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemUnknown2",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemUnknown20",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemUnknown21",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemUnknown22",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemUnknown23",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemUnknown24",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemUnknown25",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemUnknown26",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemUnknown27",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemUnknown3",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemUnknown4",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemUnknown5",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemUnknown6",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemUnknown7",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemUnknown8",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemUnknown9",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemVolatileDead",
+    "name": "致命之息",
+    "nameen": "Volatile Dead",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemVolcanicFissure",
+    "name": "炎火脈動",
+    "nameen": "Volcanic Fissure",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemVolcano",
+    "name": "火山",
+    "nameen": "Volcano",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemVoltaicGrenade",
+    "name": "電流擲彈",
+    "nameen": "Voltaic Grenade",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemVulnerability",
+    "name": "脆弱",
+    "nameen": "Vulnerability",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemWaveOfFrost",
+    "name": "寒冰波",
+    "nameen": "Wave of Frost",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemWhirlingAssault",
+    "name": "迴旋擊",
+    "nameen": "Whirling Assault",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemWhirlingSlash",
+    "name": "迴旋斬",
+    "nameen": "Whirling Slash",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemWindBlast",
+    "name": "破風爆裂",
+    "nameen": "Wind Blast",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemWither",
+    "name": "死亡凋零",
+    "nameen": "Wither",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemWolfHowl",
+    "name": "WIP",
+    "nameen": "[DNT] Howl",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemWolfLeapAttack",
+    "name": "WIP",
+    "nameen": "[DNT] Leaping Claw",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SkillGemWyvernMaul",
+    "name": "WIP",
+    "nameen": "[DNT] Maul",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportEnervation",
+    "name": "削弱",
+    "nameen": "Enervation",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemAcceleration",
+    "name": "加速",
+    "nameen": "Acceleration",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemAftershock",
+    "name": "餘震",
+    "nameen": "Aftershock",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemAmbush",
+    "name": "伏擊",
+    "nameen": "Ambush",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemArcaneSurge",
+    "name": "秘能波動",
+    "nameen": "Arcane Surge",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemArcaneTempo",
+    "name": "秘能節奏",
+    "nameen": "Arcane Tempo",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemBehead",
+    "name": "斬首",
+    "nameen": "Behead",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemBitingFrost",
+    "name": "刺骨冰霜",
+    "nameen": "Biting Frost",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemBlind",
+    "name": "致盲",
+    "nameen": "Blind",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemBloodlust",
+    "name": "嗜血",
+    "nameen": "Bloodlust",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemBludgeon",
+    "name": "連續重擊",
+    "nameen": "Bludgeon",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemBreakPosture",
+    "name": "破壞姿態",
+    "nameen": "Break Posture",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemBrutality",
+    "name": "野性殘暴",
+    "nameen": "Brutality",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemBullseye",
+    "name": "正中紅心",
+    "nameen": "Bullseye",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemBurningInscription",
+    "name": "爆燃銘文",
+    "nameen": "Burning Inscription",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemBurstingPlague",
+    "name": "爆裂瘟疫",
+    "nameen": "Bursting Plague",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemCannibalism",
+    "name": "食人",
+    "nameen": "Cannibalism",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemChain",
+    "name": "連鎖",
+    "nameen": "Chain",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemChanceToFreeze",
+    "name": "冰凍機率",
+    "nameen": "Chance to Freeze",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemChaosInfusion",
+    "name": "混沌灌注",
+    "nameen": "Chaos Infusion",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemChaosMastery",
+    "name": "混沌專精",
+    "nameen": "Chaos Mastery",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemClarity",
+    "name": "清晰",
+    "nameen": "Clarity",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemCloseCombat",
+    "name": "近身戰",
+    "nameen": "Close Combat",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemColdExposure",
+    "name": "冰冷曝曬",
+    "nameen": "Cold Exposure",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemColdInfusion",
+    "name": "冰冷灌注",
+    "nameen": "Cold Infusion",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemColdMastery",
+    "name": "冰冷專精",
+    "nameen": "Cold Mastery",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemColdPenetration",
+    "name": "冰冷穿透",
+    "nameen": "Cold Penetration",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemComboFinisher",
+    "name": "連擊終結輔助",
+    "nameen": "Combo Finisher",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemComorbidity",
+    "name": "併發症",
+    "nameen": "Comorbidity",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemConcentratedEffect",
+    "name": "集中效應",
+    "nameen": "Concentrated Effect",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemConduction",
+    "name": "傳導",
+    "nameen": "Conduction",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemControlledDestruction",
+    "name": "精準破壞",
+    "nameen": "Controlled Destruction",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemCorrosion",
+    "name": "衰敗",
+    "nameen": "Corrosion",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemCorruptingCry",
+    "name": "汙染戰吼",
+    "nameen": "Corrupting Cry",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemCoursingCurrent",
+    "name": "奔竄電流",
+    "nameen": "Coursing Current",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemCrescendo",
+    "name": "逐漸增強",
+    "nameen": "Crescendo",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemDeadlyHeralds",
+    "name": "致命先驅",
+    "nameen": "Deadly Herald",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemDeadlyPoison",
+    "name": "致命毒藥",
+    "nameen": "Deadly Poison",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemDeceleration",
+    "name": "降速",
+    "nameen": "Deceleration",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemDeepCuts",
+    "name": "深度切割",
+    "nameen": "Deep Cuts",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemDeepFreeze",
+    "name": "深度冰凍",
+    "nameen": "Deep Freeze",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemDemolisher",
+    "name": "爆破手",
+    "nameen": "Demolisher",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemDespoiler",
+    "name": "掠奪者",
+    "nameen": "Despoiler",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemDevastate",
+    "name": "蹂躪",
+    "nameen": "Devastate",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemDiscombobulate",
+    "name": "迷惑",
+    "nameen": "Discombobulate",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemDrainAilments",
+    "name": "汲取異常狀態",
+    "nameen": "Drain Ailments",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemElectrocute",
+    "name": "電刑",
+    "nameen": "Electrocute",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemElementalArmy",
+    "name": "元素軍隊",
+    "nameen": "Elemental Army",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemElementalDischarge",
+    "name": "元素解放",
+    "nameen": "Elemental Discharge",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemElementalFocus",
+    "name": "元素專注",
+    "nameen": "Elemental Focus",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemEncumbrance",
+    "name": "負擔輔助",
+    "nameen": "Encumbrance",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemEnergyBarrier",
+    "name": "能量屏障",
+    "nameen": "Energy Barrier",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemEnragedWarcry",
+    "name": "激怒戰吼",
+    "nameen": "Enraged Warcry",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemEnvenom",
+    "name": "毒化",
+    "nameen": "Envenom",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemEssenceHarvest",
+    "name": "精髓收割",
+    "nameen": "Essence Harvest",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemEternalFlame",
+    "name": "永恆烈焰",
+    "nameen": "Eternal Flame",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemExecute",
+    "name": "處刑",
+    "nameen": "Execute",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemExploitWeakness",
+    "name": "攻其之弱",
+    "nameen": "Exploit Weakness",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemFastForward",
+    "name": "快速前進",
+    "nameen": "Fast Forward",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemFeedingFrenzy",
+    "name": "豢養狂熱",
+    "nameen": "Feeding Frenzy",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemFerociousRoar",
+    "name": "兇猛怒吼",
+    "nameen": "Ferocious Roar",
+    "tag": "精魂宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemFieryDeath",
+    "name": "火熱死寂",
+    "nameen": "Fiery Death",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemFireExposure",
+    "name": "火焰曝曬",
+    "nameen": "Fire Exposure",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemFireInfusion",
+    "name": "火焰灌注",
+    "nameen": "Fire Infusion",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemFireMastery",
+    "name": "火焰專精",
+    "nameen": "Fire Mastery",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemFirePenetration",
+    "name": "火焰穿透",
+    "nameen": "Fire Penetration",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemFistOfWar",
+    "name": "拳霸",
+    "nameen": "Fist of War",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemFontofBlood",
+    "name": "鮮血器皿",
+    "nameen": "Font of Blood",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemFontofMana",
+    "name": "魔力器皿",
+    "nameen": "Font of Mana",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemFontofRage",
+    "name": "盛怒器皿",
+    "nameen": "Font of Rage",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemFork",
+    "name": "分岔",
+    "nameen": "Fork",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemFortress",
+    "name": "堡壘",
+    "nameen": "Fortress",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemFrostNexus",
+    "name": "冰霜匯聚",
+    "nameen": "Frost Nexus",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemFrostfire",
+    "name": "霜火",
+    "nameen": "Frostfire",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemFrozenVortex",
+    "name": "凍結漩渦",
+    "nameen": "Frozen Vortex",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemFusillade",
+    "name": "聚靈之杖",
+    "nameen": "Fusillade",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemGlaciation",
+    "name": "急凍化",
+    "nameen": "Glaciation",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemHeavySwing",
+    "name": "沉重揮擊",
+    "nameen": "Heavy Swing",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemHeightenedCurse",
+    "name": "增強詛咒",
+    "nameen": "Heightened Curse",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemHerbalism",
+    "name": "藥草學",
+    "nameen": "Herbalism",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemHexBloom",
+    "name": "咒術綻放",
+    "nameen": "Hex Bloom",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemHourglass",
+    "name": "沙漏",
+    "nameen": "Hourglass",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemIceBite",
+    "name": "霜咬",
+    "nameen": "Ice Bite",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemIgnition",
+    "name": "點火",
+    "nameen": "Ignition",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemImmolate",
+    "name": "犧牲",
+    "nameen": "Immolate",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemImpactShockwave",
+    "name": "衝擊震波",
+    "nameen": "Impact Shockwave",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemImpendingDoom",
+    "name": "末日厄運",
+    "nameen": "Impending Doom",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemInevitableCritical",
+    "name": "必定暴擊",
+    "nameen": "Inevitable Critical",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemInfernalLegion",
+    "name": "煉獄軍團",
+    "nameen": "Infernal Legion",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemInfusion",
+    "name": "注入",
+    "nameen": "Infusion",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemIngenuity",
+    "name": "獨創",
+    "nameen": "Ingenuity",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemInspiration",
+    "name": "啟發",
+    "nameen": "Inspiration",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemInvocation",
+    "name": "祈願",
+    "nameen": "Invocation",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemJaggedGround",
+    "name": "碎裂地面",
+    "nameen": "Jagged Ground",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemLacerate",
+    "name": "破空斬",
+    "nameen": "Lacerate",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemLastingShock",
+    "name": "持續感電",
+    "nameen": "Lasting Shock",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemLifeBounty",
+    "name": "生命恩惠",
+    "nameen": "Life Bounty",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemLifeDrain",
+    "name": "生命吸取",
+    "nameen": "Life Drain",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemLifeThief",
+    "name": "生命盜竊",
+    "nameen": "Life Thief",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemLifetap",
+    "name": "活栓",
+    "nameen": "Lifetap",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemLightningExposure",
+    "name": "閃電曝曬",
+    "nameen": "Lightning Exposure",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemLightningInfusion",
+    "name": "閃電灌注",
+    "nameen": "Lightning Infusion",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemLightningMastery",
+    "name": "閃電專精",
+    "nameen": "Lightning Mastery",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemLightningPenetration",
+    "name": "閃電穿透",
+    "nameen": "Lightning Penetration",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemLockdown",
+    "name": "封鎖",
+    "nameen": "Lockdown",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemLongshot",
+    "name": "遠程射擊",
+    "nameen": "Longshot",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemMagnifiedEffect",
+    "name": "增幅效果",
+    "nameen": "Magnified Effect",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemMaim",
+    "name": "癱瘓",
+    "nameen": "Maim",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemManaBounty",
+    "name": "魔力恩惠",
+    "nameen": "Mana Bounty",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemManaFlare",
+    "name": "魔力閃焰",
+    "nameen": "Mana Flare",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemMartialTempo",
+    "name": "武術節奏",
+    "nameen": "Martial Tempo",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemMeatShield",
+    "name": "肉盾",
+    "nameen": "Meat Shield",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemMinionMastery",
+    "name": "召喚物專精",
+    "nameen": "Minion Mastery",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemMobility",
+    "name": "機動性",
+    "nameen": "Mobility",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemMomentum",
+    "name": "氣勢",
+    "nameen": "Momentum",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemMurderousIntent",
+    "name": "殺人意圖",
+    "nameen": "Murderous Intent",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemNeuralOverload",
+    "name": "神經超載",
+    "nameen": "Neural Overload",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemOverabundance",
+    "name": "過剩",
+    "nameen": "Overabundance",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemOvercharge",
+    "name": "強化聚能",
+    "nameen": "Overcharge",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemOverpower",
+    "name": "壓倒性力量",
+    "nameen": "Overpower",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemPerpetualCharge",
+    "name": "永恆充能",
+    "nameen": "Perpetual Charge",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemPersistence",
+    "name": "堅持不懈",
+    "nameen": "Persistence",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemPhysicalMastery",
+    "name": "物理專精",
+    "nameen": "Physical Mastery",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemPierce",
+    "name": "穿透",
+    "nameen": "Pierce",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemPin",
+    "name": "標記",
+    "nameen": "Pin",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemPinpointCritical",
+    "name": "精確暴擊",
+    "nameen": "Pinpoint Critical",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemPrecision",
+    "name": "精準",
+    "nameen": "Precision",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemPremeditation",
+    "name": "預謀",
+    "nameen": "Premeditation",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemPrimalArmament",
+    "name": "原始武裝",
+    "nameen": "Primal Armament",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemProfusion",
+    "name": "滿盈",
+    "nameen": "Profusion",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemRage",
+    "name": "盛怒",
+    "nameen": "Rage",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemRisingTempest",
+    "name": "崛起風暴",
+    "nameen": "Rising Tempest",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemRuthless",
+    "name": "殘暴",
+    "nameen": "Ruthless",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemScattershot",
+    "name": "散射",
+    "nameen": "Scattershot",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemSearingFlame",
+    "name": "燒灼烈焰",
+    "nameen": "Searing Flame",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemSecondWind",
+    "name": "恢復",
+    "nameen": "Second Wind",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemShockSiphon",
+    "name": "電擊虹吸",
+    "nameen": "Shock Siphon",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemSoulDrain",
+    "name": "魂魄吸取",
+    "nameen": "Soul Drain",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemSoulThief",
+    "name": "靈魂盜竊",
+    "nameen": "Soul Thief",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemSpellEcho",
+    "name": "法術迴響",
+    "nameen": "Spell Echo",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemSplinter",
+    "name": "碎片",
+    "nameen": "Splinter",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemSpreadingFrost",
+    "name": "擴散寒冰",
+    "nameen": "Spreading Frost",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemStormfire",
+    "name": "烈風暴",
+    "nameen": "Stormfire",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemSupercritical",
+    "name": "超暴擊",
+    "nameen": "Supercritical",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemUnbreakable",
+    "name": "堅不可破",
+    "nameen": "Unbreakable",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemUnknown1",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "辅助宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemUnknown2",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "辅助宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemUnknown3",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "辅助宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemUnknown4",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "辅助宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemUnknown5",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "辅助宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemUnknown6",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "辅助宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemUnknown7",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "辅助宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemUnknown8",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "辅助宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemUnknown9",
+    "name": "敬請期待",
+    "nameen": "Coming Soon",
+    "tag": "辅助宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemUnleash",
+    "name": "釋放",
+    "nameen": "Unleash",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemVitality",
+    "name": "活力",
+    "nameen": "Vitality",
+    "tag": "辅助宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemWildfire",
+    "name": "燐火",
+    "nameen": "Wildfire",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemWindWave",
+    "name": "疾風之波",
+    "nameen": "Wind Wave",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemWindowOfOpportunity",
+    "name": "機會之窗",
+    "nameen": "Window of Opportunity",
+    "tag": "辅助宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/SupportGemWitheringTouch",
+    "name": "凋零之觸",
+    "nameen": "Withering Touch",
+    "tag": "辅助宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/Items/Gems/UniqueSkillGemHeraldOfAsh",
+    "name": "灰燼之捷",
+    "nameen": "Herald of Ash",
+    "tag": "技能宝石",
+    "colors": "r"
+  },
+  {
+    "id": "Metadata/Items/Gems/UniqueSkillGemHeraldOfIce",
+    "name": "冰霜之捷",
+    "nameen": "Herald of Ice",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/Items/Gems/UniqueSkillGemHeraldOfThunder",
+    "name": "閃電之捷",
+    "nameen": "Herald of Thunder",
+    "tag": "技能宝石",
+    "colors": "g"
+  },
+  {
+    "id": "Metadata/Items/Gems/UniqueSkillGemWitheringPresence",
+    "name": "凋零光環",
+    "nameen": "Withering Presence",
+    "tag": "技能宝石",
+    "colors": "b"
+  },
+  {
+    "id": "Metadata/items/Gems/SkillGemStaffConsecrate",
+    "name": "奉獻",
+    "nameen": "Consecrate",
+    "tag": "技能宝石",
+    "colors": "w"
+  },
+  {
+    "id": "Metadata/items/Gems/SkillGemStaffUnleash",
+    "name": "釋放",
+    "nameen": "Unleash",
+    "tag": "技能宝石",
+    "colors": "b"
+  }
+]
